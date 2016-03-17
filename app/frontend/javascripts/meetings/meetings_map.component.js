@@ -62,7 +62,7 @@ export default class MeetingsMap extends Component {
                 size: {width: 27, height: 35},
                 anchor: new google.maps.Point(20, 40),
                 scale: 0.6,
-                fillColor: '#c60c30',
+                fillColor: '#612d62',
               },
               map: map
             });

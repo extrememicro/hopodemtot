@@ -3,3 +3,4 @@
 docker rm -f `docker ps -aq -f name=hopodemtot_*`
 source .env
 export $(grep "^[^#]" .env | xargs) && cat ${COMPOSE_CONFIG} | envsubst | docker-compose -f - -p "hopodemtot" up -d
+

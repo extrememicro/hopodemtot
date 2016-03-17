@@ -4,7 +4,7 @@
       <div class="small-12 large-12 columns">
         <h1 class="title-expanded">
           <%= link_to root_url do %>
-            <span class="pla-barcelona">Pla Municipal</span>
+            <span class="pla-barcelona">Projecte</span>
             <span class="decidim-barcelona">
               <%= Setting["org_name"] %>
             </span>
@@ -24,7 +24,7 @@
 <% content_for(:social_media_meta_tags) do %>
   <%= render 'shared/social_media_meta_tags',
               social_title: Setting['org_name'],
-              social_description: "Descobriu, debateu, proposeu les actuacions per a la ciutat de Barcelona dels propers 4 anys",
+              social_description: "Descobriu, debateu, proposeu el futur de Podem Catalunya",
               social_url: url_for(),
               social_media_image: asset_url("social_media_cover.jpg") %>
 <% end %>
@@ -36,6 +36,6 @@
   <%= render 'tutorial' %>
   <%= render 'videos' %>
   <%= render 'download' %>
-  <%= render 'meetings' %>
+  <%= #render 'meetings' %>
   <%= render 'categories' %>
 </div>
