@@ -1,21 +1,7 @@
 districts:
   1:
-    name: "Ciutat Vella"
+    name: "Podem fort i plurinacional"
   2:
-    name: "Eixample"
+    name: "Podem fort i en els territoris"
   3:
-    name: "Sants Montjuïc"
-  4:
-    name: "Les Corts"
-  5:
-    name: "Sarrià - Sant Gervasi"
-  6:
-    name: "Gràcia"
-  7:
-    name: "Horta - Guinardó"
-  8:
-    name: "Nou Barris"
-  9:
-    name: "Sant Andreu"
-  10:
-    name: "Sant Martí"
+    name: "Podem fort i confluent"
