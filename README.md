@@ -1,17 +1,17 @@
-![decidim.barcelona logo]
-(https://raw.githubusercontent.com/AjuntamentdeBarcelona/decidimbcn/master/app/assets/images/decidim-logo.png)
+![hopodemtot logo]
+(https://raw.githubusercontent.com/extrememicro/hopodemtot/master/app/assets/images/hopodemtot-logo.png)
 
-# decidim.barcelona
+# Ho Podem Tot
 
 Citizen Participation and Open Government Application
 
-[![Circle CI](https://circleci.com/gh/AjuntamentdeBarcelona/decidim.barcelona/tree/master.svg?style=svg)](https://circleci.com/gh/AjuntamentdeBarcelona/decidim.barcelona/tree/master)
-[![Coverage Status](https://coveralls.io/repos/github/AjuntamentdeBarcelona/decidim.barcelona/badge.svg?branch=master)](https://coveralls.io/github/AjuntamentdeBarcelona/decidim.barcelona?branch=master)
-[![Code Climate](https://codeclimate.com/github/AjuntamentdeBarcelona/decidim.barcelona/badges/gpa.svg)](https://codeclimate.com/github/AjuntamentdeBarcelona/decidim.barcelona)
-[![Dependency Status](https://gemnasium.com/AjuntamentdeBarcelona/decidim.barcelona.svg)](https://gemnasium.com/AjuntamentdeBarcelona/decidim.barcelona)
+[![Circle CI](https://circleci.com/gh/extrememicro/hopodemtot/tree/master.svg?style=svg)](https://circleci.com/gh/extrememicro/hopodemtot/tree/master)
+[![Coverage Status](https://coveralls.io/repos/github/extrememicro/hopodemtot/badge.svg?branch=master)](https://coveralls.io/github/extrememicro/hopodemtot?branch=master)
+[![Code Climate](https://codeclimate.com/github/extrememicro/hopodemtot/badges/gpa.svg)](https://codeclimate.com/github/extrememicro/hopodemtot)
+[![Dependency Status](https://gemnasium.com/extrememicro/hopodemtot.svg)](https://gemnasium.com/extrememicro/hopodemtot)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-This is the opensource code repository for "decidim.barcelona", based on [Consul](https://github.com/consul/consul), developed by the Madrid City government.
+This is the opensource code repository for "ara.hopodemtot.info", based on [Consul](https://github.com/consul/consul), developed by the Madrid City government and "decidim.barcelona" (Barcelona City Government).
 
 ## Tech stack
 
@@ -29,6 +29,27 @@ docker-compose run --rm app db:create
 docker-compose run --rm app db:setup SEED=true
 docker-compose up
 ```
+
+
+```
+docker-compose build
+docker-compose run app bash -c 'bundle install && rake db:setup'
+
+if [[ -e ~/docker/image.tar ]]; then docker load -i ~/docker/image.tar; fi
+sudo pip install --upgrade docker-compose==1.5.2
+docker pull ultrayoshi/ruby-node-phantomjs:2.1.1
+docker pull postgres
+docker pull redis
+docker-compose build
+docker-compose run app bundle install
+docker-compose run app npm install
+docker-compose run app webpack 
+docker-compose run app bundle exec rake db:setup SEED=TRUE
+mkdir -p ~/docker; docker save ultrayoshi/ruby-node-phantomjs:2.1.1 postgres redis > ~/docker/image.tar
+docker-compose run app rake db:setup
+docker-compose run -e RAILS_ENV=test app bundle exec rake assets:precompile
+```
+
 
 ## Configuration for development and test environments
 
@@ -57,6 +78,10 @@ Run the tests with:
 
 ```
 bin/rspec
+```
+
+```
+docker-compose run app bundle exec rspec
 ```
 
 ## Licence
