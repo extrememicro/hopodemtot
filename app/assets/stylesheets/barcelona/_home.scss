@@ -9,7 +9,7 @@
       display: inline-block;
     }
 
-    .pla-barcelona, .decidim-barcelona{
+    .pla-barcelona, .hopodemtot{
       display: block;
       float: left;
       clear: both;
@@ -25,9 +25,13 @@
       padding-bottom: rem-calc(10);
     }
 
-    .decidim-barcelona{
-      font-size: rem-calc(22px);
-      @include arrow-box($text, left);
+    .hopodemtot{
+      padding: 0;
+      background-image: image-url("hopodemtot-logo.png");
+      background-size: cover;
+      height: rem-calc(74);
+      width: rem-calc(451);
+      @include arrow-box(#f1edea, left);
     }
   }
 
@@ -130,18 +134,18 @@
       }
 
       .icons{
-        margin-bottom: rem-calc(15);
+        margin-top: rem-calc(15);
 
         .bcn-icon{
           width: 2em;
           height: 2em;
-          margin-right: 0.5em;
+          margin-right: 5.2em;
         }
       }
 
       &.tutorial-step-left{
         .icons{
-          @include arrow-box(#e1e1e1, left);
+          @include arrow-box(#c361b0, left);
           display: table;
         }
 
@@ -168,12 +172,12 @@
         }
 
         .icons{
-          @include arrow-box(#e1e1e1, right);
+          @include arrow-box(#47907e, right);
           display: table;
         }
 
         .description{
-          @include arrow-box(#ececec, right);
+          @include arrow-box(#136c58, right);
         }
 
         .number{

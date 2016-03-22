@@ -5,21 +5,13 @@
 }
 
 #application-title{
-  line-height: 0.8;
-  margin: 0;
   display: inline-block;
   margin-top: rem-calc(20);
   margin-bottom: rem-calc(30);
-  font-size: rem-calc(18);
-
-  a{
-    @include arrow-box($text, left, 0.8);
-    text-decoration: none;
-    font-weight: bold;
-    line-height: normal;
-    display: inline-block;
-    span{
-      color: $text-inverse;
-    }
-  }
+      padding: 0;
+      background-image: image-url("logo.svg");
+      background-size: cover;
+      height: rem-calc(74);
+      width: rem-calc(500);
+ 
 }
