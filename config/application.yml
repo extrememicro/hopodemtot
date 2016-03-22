@@ -7,11 +7,18 @@ defaults: &defaults
 
   # Names for the moderation console, as a hint for moderators
   # to know better how to assign users with official positions
-  official_level_1_name: "Colaboradors directes"
-  official_level_2_name: "Organizació HPT"
-  official_level_3_name: "Comunicació HPT"
-  official_level_4_name: "A llista Albano"
+  official_level_1_name: "Col·laboradors"
+  official_level_2_name: "Voluntari HPT"
+  official_level_3_name: "Empleat públic"
+  official_level_4_name: "Grup promotor"
   official_level_5_name: "Cap de llista"
+
+    #level_0: No és un càrrec públic
+    #level_1: Empleat/da públic
+    #level_2: Organització general
+    #level_3: Director/a General
+    #level_4: Regidor/a
+    #level_5: Alcaldessa
 
   # Max percentage of allowed anonymous votes on a debate
   max_ratio_anon_votes_on_debates: 50
@@ -34,8 +41,8 @@ defaults: &defaults
 
   twitter_handle: "hopodemtot_cat"
   facebook_handle: "hopodemtot"
-  youtube_handle: "UClGrbn9T9wHManduOwy432w"
-  instagram_handle: ""
+  youtube_handle: "channel/UClGrbn9T9wHManduOwy432w"
+  #instagram_handle: ""
   github_handle: "consul/consul"
   facebook_app_id: "248929335445036"
 
@@ -53,7 +60,7 @@ defaults: &defaults
   # Code to be included at the top (header) of every page (useful for tracking)
   per_page_code: ''
 
-  feature.debates: true
+  feature.debates: false
   feature.debates.vote: false
   feature.debates.search: false
   feature.spending_proposals: false
