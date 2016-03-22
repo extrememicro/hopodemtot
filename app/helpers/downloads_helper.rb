@@ -18,7 +18,7 @@ module DownloadsHelper
       when "8"  then "http://www.barcelona.cat/download/pam/#{I18n.locale}/PAD-Nou-Barris-#{lang}.pdf"
       when "9"  then "http://www.barcelona.cat/download/pam/#{I18n.locale}/PAD-Sant-Andreu-#{lang}.pdf" 
       when "10" then "http://www.barcelona.cat/download/pam/#{I18n.locale}/PAD-Sant-Marti-#{lang}.pdf"
-      else "http://www.barcelona.cat/download/pam/#{I18n.locale}/Document-PAM-2016.pdf"
+      else "http://www.filedropper.com/hopodemtotdocparticipaciov2"
     end
   end
 end
