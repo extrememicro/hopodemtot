@@ -162,7 +162,7 @@ ca:
     error: error
     errors: errors
     meeting: la cita presencial
-    not_saved: 'impedir guardar %{resource}:'
+    not_saved: 'impedeixen guardar %{resource}:'
     policy: Política de privacitat
     proposal: la proposta
     spending_proposal: la proposta de despesa
@@ -413,7 +413,7 @@ ca:
     check: Seleccionar
     check_all: Tots
     check_none: Cap
-    collective: Organització
+    collective: Cercle
     flag: Denunciar com inapropiat
     print:
       print_button: Imprimir aquesta informació
@@ -463,10 +463,10 @@ ca:
   subcategories:
     edit:
       form:
-        submit_button: Actualitzar línia estratègica
+        submit_button: Actualitzar proposta inicial
     new:
       form:
-        submit_button: Crear línia estratègica
+        submit_button: Crear una proposta inicial
   users:
     show:
       deleted: Eliminat
@@ -502,7 +502,7 @@ ca:
   welcome:
     welcome:
       see_proposals: Veure les propostes
-      skip_verification: Si no estàs empadronat a Barcelona o no vols verificar el compte,
+      skip_verification: Si no estàs empadronat a Catalunya o no vols verificar el compte,
       title: Comença a participar
       user_permission_debates: Participar en debats
       user_permission_info: Amb el teu compte ja pots ...

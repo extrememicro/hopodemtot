@@ -60,7 +60,7 @@ es:
       hidden_debates: Debates ocultos
       hidden_proposals: Propuestas ocultas
       incomplete_verifications: Verificaciones incompletas
-      organizations: Organizaciones
+      organizations: Círculos
       spending_proposals: Propuestas de gasto
       stats: Estadísticas
       users: Usuarios
@@ -73,17 +73,17 @@ es:
           rejected: Rechazadas
           verified: Verificadas
         hidden_count:
-          one: Hay, además, una organización sin usuario o con el usuario bloqueado
-          other: Hay %{count} organizaciones sin usuario o con el usuario bloqueado
+          one: Hay, además, un círculo sin usuario o con el usuario bloqueado
+          other: Hay %{count} círculos sin usuario o con el usuario bloqueado
         reject: Rechazar
         rejected: Rechazada
         search: Buscar
         search_placeholder: Nombre, correo electrónico o teléfono
-        title: Organizaciones
+        title: Círculos
         verified: Verificada
         verify: Verificar
       search:
-        title: Buscar organizaciones
+        title: Buscar círculos
     proposals:
       index:
         filter: Filtro

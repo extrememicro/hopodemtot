@@ -20,8 +20,8 @@ es:
         unconfirmed_code: Todavía no has introducido el código de confirmación
       create:
         flash:
-          offices: Oficinas de atención al ciudadano
-          offices_url: Offices url
+          offices: Citas Presenciales
+          offices_url: url citas
           success_html: Antes de las votaciones, recibirás una carta con las instrucciones para verificar tu cuenta.<br> Recuerda que puedes evitar el envío si te verificas presencialmente en cualquiera de las %{offices}.
       edit:
         see_all: Ver propuestas
@@ -50,8 +50,8 @@ es:
         flash:
           success: Residencia verificada
       new:
-        accept_terms_text: Acepto %{terms_url} al padrón
-        adult_verification_text: Los mayores de edad a cargo de los menores de 18 años, son los plenos responsables de los usos que estos hagan de la plataforma Decidim Barcelona
+        accept_terms_text: Acepto los %{terms_url}
+        adult_verification_text: Los mayores de edad a cargo de los menores de 18 años, son los plenos responsables de los usos que estos hagan de la plataforma ara.HoPodemTot
         date_of_birth: Fecha de nacimiento
         document_number: Número de documento
         document_type:
@@ -60,12 +60,12 @@ es:
           spanish_id: DNI
         document_type_label: Tipo de documento
         error_not_allowed_age: Hay que tener al menos 16 años
-        error_not_allowed_postal_code: Para verificarte, debes estar empadronado en el municipio de Barcelona.
-        error_verifying_census: No se pudo verificar tu información en el padrón. Por favor, confirma que tus datos de empadronamiento sean correctos o visita cualquiera de las %{offices}.
+        error_not_allowed_postal_code: impide verificado, debes estar empadronado en Cataluña.
+        error_verifying_census: No se pudo verificar tu información. Por favor, confirma que tus datos de empadronamiento sean correctos o visita cualquiera de las %{offices}.
         error_verifying_census_offices: oficinas de atención al ciudadano
         form_errors: no se pudo verificar tu residencia
         postal_code: Código postal
-        postal_code_note: Para verificar tus datos, debes estar empadronado en el municipio de Barcelona.
+        postal_code_note: Para verificar tus datos, debes estar empadronado en Cataluña.
         terms: los términos de acceso
         title: Verificar la residencia
         verify_residence: Verificar la residencia

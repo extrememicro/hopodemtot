@@ -21,7 +21,7 @@ ca:
       create:
         flash:
           offices: Assemblees Presencials
-          offices_url: Offices url
+          offices_url: Assemblees url
           success_html: Abans de les votacions, rebràs una carta amb les instruccions per verificar el teu compte. <br> Recorda que pots estalviar l'enviament verificant-te presencialment a qualsevol de les %{offices}.
       edit:
         see_all: Mostra propostes
@@ -60,7 +60,7 @@ ca:
           spanish_id: DNI
         document_type_label: Tipus de document
         error_not_allowed_age: Has de tenir almenys 16 anys
-        error_not_allowed_postal_code: Per verificar-te has d'estar empadronat a Catalunya
+        error_not_allowed_postal_code: impedeix la verificació. Has d'estar empadronat a Catalunya
         error_verifying_census: No s'ha pogut verificar la teva informació. Confirma que les teves dades són correctes o visita qualsevol de les %{offices}.
         error_verifying_census_offices: .
         form_errors: no s'ha pogut verificar la teva residència

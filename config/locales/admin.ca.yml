@@ -60,7 +60,7 @@ ca:
       hidden_debates: Debats ocults
       hidden_proposals: Propostes ocultes
       incomplete_verifications: Verificacions incompletes
-      organizations: Organitzacions
+      organizations: Cercles
       spending_proposals: Propostes de despesa
       stats: Estadístiques
       users: Usuaris
@@ -73,13 +73,13 @@ ca:
           rejected: Rebutjades
           verified: Verificades
         hidden_count:
-          one: Hi ha, a més, una organització sense usuari o amb l'usuari bloquejat
-          other: Hi ha %{count} organitzacions sense usuari o amb l'usuari bloquejat
+          one: Hi ha, a més, un cercle sense usuari o amb l'usuari bloquejat
+          other: Hi ha %{count} cercles sense usuari o amb l'usuari bloquejat
         reject: Rebutja
         rejected: Rebutjada
         search: Cerca
         search_placeholder: Nom, correu electrònic o telèfon
-        title: Organitzacions
+        title: Cercles
         verified: Verificada
         verify: Verifica
       search:

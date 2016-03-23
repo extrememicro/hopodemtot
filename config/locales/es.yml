@@ -23,7 +23,7 @@ es:
       user_permission_support_proposal: Apoyar propuestas*
       user_permission_title: Participación
       user_permission_verify: Para poder realizar todas las acciones verifica tu cuenta.
-      user_permission_verify_info: "* Sólo usuarios empadronados en el municipio de Barcelona."
+      user_permission_verify_info: "* Sólo usuarios empadronados en Cataluña."
       username_label: Nombre de usuario
       verified_account: Cuenta verificada
       verify_my_account: Verificar mi cuenta
@@ -42,7 +42,7 @@ es:
     new:
       form:
         submit_button: Crear eje
-    title: Plan municipal
+    title: Ejes temáticos
   comments:
     comment:
       admin: Administrador
@@ -106,7 +106,7 @@ es:
       tags_label: Temas
       tags_placeholder: Escribe las etiquetas que desees separadas por coma (',')
     index:
-      description: Los debates son un espacio abierto de preguntas con los diferentes tenientes alcaldes y la alcaldesa de Barcelona y tienen lugar en el marco del Plan de Actuación Municipal. 48 horas antes de que comience el debate ya se pueden empezar a hacer preguntas y/o votar aquellas que se consideren más relevantes. Una vez comience el debate a la hora señalada se irán respondiendo las preguntas dando prioridad a aquellas que tengan más votos. Por lo tanto es importante participar activamente en la decisión colaborativa de qué preguntas son más prioritarias y cuáles menos. Igualmente es importante hacer las preguntas con suficiente antelación y formuladas de la manera más clara y razonada posible para que esté bien posicionada cuando se empiecen a responder las preguntas.
+      description: Los debates son un espacio abierto de preguntas con los diferentes candidatos a la lista y tienen lugar en el marco del documento político-organizativo de Podem Cataluña. 48 horas antes de que comience el debate ya se pueden empezar a hacer preguntas y/o votar aquellas que se consideren más relevantes. Una vez comience el debate a la hora señalada se irán respondiendo las preguntas dando prioridad a aquellas que tengan más votos. Por lo tanto es importante participar activamente en la decisión colaborativa de qué preguntas son más prioritarias y cuáles menos. Igualmente es importante hacer las preguntas con suficiente antelación y formuladas de la manera más clara y razonada posible para que esté bien posicionada cuando se empiecen a responder las preguntas.
       filter_topic:
         one: " con el tema '%{topic}'"
         other: " con el tema '%{topic}'"
@@ -236,8 +236,8 @@ es:
       meeting_proposal_ids: "¿Qué propuestas se van a discutir o ya se han discutido?"
       meeting_scope: "Ámbito"
       meeting_scope_city: Toda la ciudad
-      meeting_scope_district: Distritos
-      meeting_scope_note: "¿Es una medida para toda la ciudad o solo para un distrito?"
+      meeting_scope_district: Ámbitos de actuación
+      meeting_scope_note: "¿Es una medida categorizada dentro de uno de los ámbitos de actuación o no corresponde a ninguna?"
       meeting_start_at: "¿A que hora empieza?"
       meeting_title: Título
       tags_instructions: Etiqueta este debate. Puedes elegir entre nuestras propuestas o introducir las que desees.
@@ -246,7 +246,7 @@ es:
     index:
       close: Cerrar
       delete: Borrar
-      description: Aquí podrás encontrar las más de doscientas cincuenta citas previstas en el proceso de participación. Las citas son encuentros presenciales en forma de jornadas, debates y dinamizaciones en el espacio público para debatir propuestas del Plan de Actuación Municipal relacionadas con cada uno de los ejes temáticos (vivienda, educación, sanidad, participación, economía, etc.). Hay citas de barrio, de distrito y de ciudad. Puedes participar en todas las que quieras y las propuestas surgidas de estas citas serán colgadas en la plataforma para que todo el mundo las pueda conocer y debatir.
+      description: Aquí podrás buscar tanto citas previstas dentro del proceso de participación como pasadas. Las citas son encuentros presenciales en forma de jornadas, debates y dinamizaciones en el espacio público para debatir propuestas del documento político-organizativo de Podem Cataluña relacionadas con cada uno de los ejes temáticos (transparencia, feminismo, participación, comunidad, etc.). Hay citas principalmente comarcales. Puedes participar en todas las que quieras y las propuestas surgidas de estas citas serán colgadas en la plataforma para que todo el mundo las pueda conocer y debatir.
       edit: Editar
       new: Crear cita
       pictures: Imágenes
@@ -276,12 +276,12 @@ es:
         other: Hay %{count} nuevas respuestas a tu comentario en
       title: Notificaciones
   officials:
-    level_0: No és un càrrec públic
-    level_1: Empleado/a público
-    level_2: Organizació municipal
-    level_3: Director/a general
-    level_4: Concejal/a
-    level_5: Alcaldesa
+    level_0: No és un colaborador directo
+    level_1: Colaboradores
+    level_2: Voluntariado HPT
+    level_3: Empleado público
+    level_4: Grupo promotor
+    level_5: Cabeza de lista
   omniauth:
     facebook:
       sign_in: Entra con Facebook
@@ -307,15 +307,15 @@ es:
     form:
       proposal_external_url: Enlace a documentación adicional
       proposal_from_meeting: Esta propuesta sale de una cita presencial
-      proposal_official: La propuesta es oficial
+      proposal_official: Propuesta del documento inicial
       proposal_question: Pregunta de la propuesta
-      proposal_question_example_html: Debe ser resumida en una pregunta cuya respuesta sea Sí o No. <em>Ej. '¿Está usted de acuerdo en peatonalizar la calle Mayor?'</em>
+      proposal_question_example_html: Debe ser resumida en una pregunta cuya respuesta sea Sí o No. <em>Ej. '¿Está usted de acuerdo en ...?'</em>
       proposal_responsible_name: Nombre y apellidos de la persona que hace esta propuesta
       proposal_responsible_name_note: "(individualmente o como representante de un colectivo; no se mostrará públicamente)"
       proposal_scope: "Ámbito"
       proposal_scope_city: Toda la ciudad
-      proposal_scope_district: Distritos
-      proposal_scope_note: "¿Es una medida para toda la ciudad o solo para un distrito?"
+      proposal_scope_district: Ámbitos de actuación
+      proposal_scope_note: "¿Es una medida categorizada dentro de uno de los ámbitos de actuación o no corresponde a ninguno?"
       proposal_summary: Resumen de la propuesta
       proposal_summary_note: "(máximo 300 caracteres)"
       proposal_title: Título de la propuesta
@@ -325,8 +325,8 @@ es:
       tags_label: Temas
       tags_placeholder: Escribe las etiquetas que desees separadas por una coma (',')
     index:
-      description: Aquí puedes navegar por las propuestas que el Gobierno ha elaborado para el Plan de Actuación Municipal 2016-2019. A estas propuestas se suman otras que provienen de iniciativas ciudadanas, de espacios de debate o de propuestas realizadas por entidades y organizaciones. Antes de elaborar una nueva, mira qué propuestas hay. De esta manera podrás participar con mayor conocimiento en el debate ya iniciado, apoyar las propuestas que creas convenientes y finalmente decidir crear otras nuevas, si consideras que ninguna de las existentes incluye lo que deseas proponer. ¡Lee, opina y participa!
-      download: Baja el Plan Municipal
+      description: Aquí puedes buscar por propuestas que el grupo impulsor ha elaborado inicialmente para iniciar el debate para la redacción del proyecto político-organizativo- A estas propuestas se suman otras que provienen de iniciativas simpatizantes, voluntariado, realizadas por círculos y en espacios de debate. Antes de elaborar una nueva, mira qué propuestas hay. De esta manera podrás participar con mayor conocimiento en el debate ya iniciado, apoyar las propuestas que creas convenientes y finalmente decidir crear otras nuevas, si consideras que ninguna de las existentes incluye lo que deseas proponer. ¡Lee, opina y participa!
+      download: Baja el document de proposta inicial
       filter:
         title: Filtrado por
       orders:
@@ -388,11 +388,11 @@ es:
   shared:
     advanced_search:
       author_type: Por categoría de autor
-      author_type_1: Empleado público
-      author_type_2: Organización Municipal
-      author_type_3: Director general
-      author_type_4: Concejal
-      author_type_5: Alcaldesa
+      author_type_1: Colaboradores
+      author_type_2: Voluntariado HPT
+      author_type_3: Empleado público
+      author_type_4: Grupo promotor
+      author_type_5: Cabeza de lista
       author_type_blank: Elige una categoría
       date: Por fecha
       date_1: "Últimas 24 horas"
@@ -413,7 +413,7 @@ es:
     check: Seleccionar
     check_all: Todos
     check_none: Ninguno
-    collective: Organización
+    collective: Círculo
     flag: Denunciar como inapropiado
     print:
       print_button: Imprimir esta información
@@ -456,17 +456,17 @@ es:
       back_link: Volver
       more_info: "¿Cómo funcionan los presupuestos participativos?"
       recommendation_one: Es fundamental que haga referencia a una actuación presupuestable.
-      recommendation_three: Intenta detallar lo máximo posible la propuesta para que el equipo de gobierno encargado de estudiarla tenga las menor dudas posibles.
+      recommendation_three: Intenta detallar lo máximo posible la propuesta para que el equipo encargado de estudiarla tenga las menor dudas posibles.
       recommendation_two: Cualquier propuesta o comentario que implique acciones ilegales será eliminada.
       recommendations_title: Cómo crear una propuesta de gasto
       start_new: Crear una propuesta de gasto
   subcategories:
     edit:
       form:
-        submit_button: Actualitzar línea estratégica
+        submit_button: Actualitzar propuesta inicial
     new:
       form:
-        submit_button: Crear línea estratégica
+        submit_button: Crear propuesta inicial
   unauthorized:
     default: No tienes permiso para acceder a esta página.
     manage:
@@ -506,11 +506,11 @@ es:
   welcome:
     welcome:
       see_proposals: Ver las propuestas
-      skip_verification: Si no estás empadronado en Barcelona o no quieres verificarte,
+      skip_verification: Si no estás empadronado en Cataluña o no quieres verificarte,
       title: Empieza a participar
       user_permission_debates: Participar en debates
       user_permission_info: Con tu cuenta ya puedes...
       user_permission_proposal: Crear nuevas propuestas
       user_permission_support_proposal: Apoyar propuestas*
-      user_permission_verify_info: "* Sólo usuarios empadronados en el municipio de Barcelona."
+      user_permission_verify_info: "* Sólo usuarios empadronados en Cataluña."
       user_permission_verify_url: Verifica tu cuenta

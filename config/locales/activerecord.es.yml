@@ -37,11 +37,11 @@ es:
         one: Voto
         other: Votos
       organization:
-        one: Organización
-        other: Organizaciones
+        one: Círculo
+        other: Círculos
       proposal:
-        one: Propuesta ciudadana
-        other: Propuestas ciudadanas
+        one: Propuesta
+        other: Propuestas
       spending_proposal:
         one: Propuesta de gasto
         other: Propuestas de gasto
@@ -59,7 +59,7 @@ es:
         ends_at: Fecha y hora de fin
       meeting:
         attendee_count: "Número de asistentes"
-        organizations: "Organizaciones participantes"
+        organizations: "Círculos participantes"
         interventions: Número de intervenciones realizadas por los asistentes
       proposal:
         author: Autor/a
@@ -76,5 +76,5 @@ es:
         official_level: Nivel del cargo
       organization:
         name: Nombre de organización
-        responsible_name: Persona responsable de la organización
+        responsible_name: Persona portavoz del círculo
         document_number: NIF

@@ -42,14 +42,14 @@ ca:
         new:
           email_label: Adreça electrònica
           organization_document_number_label: NIF
-          organization_name_label: Nom de l'organització
+          organization_name_label: Nom del cercle
           password_confirmation_label: Confirma la contrasenya
           password_label: Contrasenya
           phone_number_label: Telèfon
-          responsible_name_label: Nom i cognoms de la persona responsable del cercle
+          responsible_name_label: Nom i cognoms del portaveu del cercle
           responsible_name_note: Nom de la persona que representa al cercle, en nom de la qual es presentaran les propostes
           submit: Registra't
-          title: Registra't com organització/col·lectiu
+          title: Registra't com a Cercle
         success:
           back_to_index: Ho he entès; torna a la pàgina principal
           instructions_1_html: En breu <b>ens posarem en contacte amb tu</b> per verificar que realment representes aquest cercle
@@ -111,7 +111,7 @@ ca:
           waiting_for: 'S''està esperant confirmació de:'
         new:
           email_label: Adreça electrònica
-          legal_lopd_text: 'D''acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, us informem que les vostres dades personals s''incorporaran al fitxer Participació de Ho Podem Tot, amb la finalitat de Participar en el procés de definició del nou document Polític-Organitzatiu per a Podem Catalunya. Les vostres dades no seran cedides a tercers. Podeu exercitar els drets d''accés, rectificació, cancel·lació i oposició, adreçant-vos per email a hopodemtot@gmail.començar, indicant clarament en l''assumpte Exercici de Dret LOPD.'
+          legal_lopd_text: 'D''acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, us informem que les vostres dades personals s''incorporaran al fitxer Participació de Ho Podem Tot, amb la finalitat de Participar en el procés de definició del nou document Polític-Organitzatiu per a Podem Catalunya. Les vostres dades no seran cedides a tercers. Podeu exercitar els drets d''accés, rectificació, cancel·lació i oposició, adreçant-vos per email a hopodemtot@gmail.com, indicant clarament en l''assumpte Exercici de Dret LOPD.'
           organization_signup: Representes un cercle territorial o sectorial? %{signup_link}
           organization_signup_link: Registra't aquí
           password_confirmation_label: Confirma la contrasenya
