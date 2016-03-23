@@ -90,7 +90,7 @@ class Verification::Residence
     end
 
     def valid_postal_code?
-      postal_code =~ /^080/
+      postal_code =~ /^[0124][3578]\d\d\d/
     end
 
 end
