@@ -30,7 +30,7 @@ ca:
         edit: Editar
         new: Crear eix
         title: Eixos
-        view_subcategories: Veure línies estratègiques
+        view_subcategories: Veure propostes inicials
     comments:
       index:
         filter: Filtre
@@ -136,8 +136,8 @@ ca:
       index:
         delete: Esborrar
         edit: Editar
-        new: Crear línia estratègica
-        title: Línies estratègiques
+        new: Crear propostes inicials
+        title: Propostes inicials
     tags:
       create: Crea un tema
       destroy: Elimina tema
