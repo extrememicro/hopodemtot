@@ -6,7 +6,7 @@ import Meeting        from './meeting.component';
 export default class MeetingsMap extends Component {
   constructor(props) {
     super(props);
-    this.defaultZoom = 12;
+    this.defaultZoom = 8;
     this.defaultLocation = { lat: 41.396449, lng: 2.169971 };
     this.currentInfoWindow = null;
   }
