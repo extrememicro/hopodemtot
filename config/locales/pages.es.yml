@@ -34,7 +34,7 @@ es:
           title: "¿Cómo se pueden hacer propuestas?"
         question-4:
           answer: En equipamientos municipales de todos los distritos. Puedes consultar dónde se realizan los encuentros presenciales <a href="http://decidim.barcelona/meetings"> aquí </a>.
-          title: "¿Dónde se hacen las citas presenciales?"
+          title: "¿Dónde se hacen las encuentros presenciales?"
         question-5:
           answer: El proceso en general y la situación de cada propuesta, en particular, se pueden seguir en todo momento a través de esta plataforma digital.
           title: "¿Por qué es un proceso transparente y trazable?"
@@ -84,18 +84,18 @@ es:
         title: "¿Por qué un proceso participativo por el Plan municipal?"
       section_4:
         list-1:
-          item-1: 'decidim.barcelona: la plataforma para hacer nuevas aportaciones, ver otras realizadas por la ciudadanía o surgidas de las citas presenciales, dar apoyo y comentar y debatir en torno a aquellas iniciativas que te parezcan de más interés para la ciudad.'
+          item-1: 'decidim.barcelona: la plataforma para hacer nuevas aportaciones, ver otras realizadas por la ciudadanía o surgidas de las encuentros presenciales, dar apoyo y comentar y debatir en torno a aquellas iniciativas que te parezcan de más interés para la ciudad.'
           item-1-link: Propuestas a decidim.barcelona
-          item-2: 'Citas presenciales: son jornadas, debates, encuentros en el espacio público y otras citas presenciales para debatir propuestas relacionadas tanto con la ciudad, como con los barrios y distritos.'
-          item-2-link: Aquí puedes ver las citas presenciales
-        paragraph-1: El proceso de participación para el Plan municipal es un método híbrido entre las citas presenciales y los espacios digitales. Esta singularidad ha impulsado el nacimiento de la plataforma  <strong> decidim.barcelona </ strong>.
+          item-2: 'Encuentros presenciales: son jornadas, debates, encuentros en el espacio público y otras encuentros presenciales para debatir propuestas relacionadas tanto con la ciudad, como con los barrios y distritos.'
+          item-2-link: Aquí puedes ver las encuentros presenciales
+        paragraph-1: El proceso de participación para el Plan municipal es un método híbrido entre las encuentros presenciales y los espacios digitales. Esta singularidad ha impulsado el nacimiento de la plataforma  <strong> decidim.barcelona </ strong>.
         paragraph-2: Gracias a la plataforma decidim.barcelona se crea un espacio de participación abierto a toda la ciudadanía, se hace visible todo el proceso de forma transparente y trazable y hay un retorno de las propuestas introducidas.
         paragraph-3: 'Así pues, este proceso ha sido pensado para que durante dos meses puedas participar de diferentes maneras:'
         paragraph-4: Con este proceso, queremos generar un debate ciudadano sobre los grandes temas de nuestra ciudad a partir de espacios de deliberación conjunta y la construcción colectiva.
         title: "¿Cómo puedo participar?"
       section_5:
         part-1:
-          paragraph-1: Las propuestas, debates, contenidos de las sesiones, resúmenes y actas de las citas presenciales y digitales se publican en abierto y son accesibles. Un proceso con transparencia real que permite equiparar el valor de todas las aportaciones y opiniones. Al mismo tiempo, se amplifica el proceso deliberativo y de generación de consensos.
+          paragraph-1: Las propuestas, debates, contenidos de las sesiones, resúmenes y actas de las encuentros presenciales y digitales se publican en abierto y son accesibles. Un proceso con transparencia real que permite equiparar el valor de todas las aportaciones y opiniones. Al mismo tiempo, se amplifica el proceso deliberativo y de generación de consensos.
           title: Un proceso abierto y transparente
         part-2:
           list-1:
@@ -130,7 +130,7 @@ es:
       section_7:
         list-1:
           item-1: A.En la primera, el Gobierno municipal ha elaborado la propuesta de documento en la que también se han recogido propuestas de entidades y asociaciones, así como de los órganos de participación. Las propuestas de esta primera fase se pueden ver en la plataforma decidim.barcelona.
-          item-2: B.La segunda fase es el momento de máxima apertura y participación. Durante dos meses y medio se organizan centenares de citas presenciales donde todo el mundo puede participar, dar su opinión y debatir las propuestas. En esta misma fase se puede participar a través de decidim.barcelona, donde quedarán todas las propuestas recogidas y se podrá seguir su recorrido.
+          item-2: B.La segunda fase es el momento de máxima apertura y participación. Durante dos meses y medio se organizan centenares de encuentros presenciales donde todo el mundo puede participar, dar su opinión y debatir las propuestas. En esta misma fase se puede participar a través de decidim.barcelona, donde quedarán todas las propuestas recogidas y se podrá seguir su recorrido.
           item-3: C.Una vez finalizado el proceso participativo, el Gobierno municipal valora las propuestas con más apoyos y estudia su viabilidad para incorporarlas al documento del Plan municipal. Finalmente, se realizará un retorno de las propuestas.
         paragraph-1: 'El proceso participativo tiene tres fases:'
         paragraph-2: Detrás este proceso participativo, hay una apuesta firme por la transparencia, un principio que ha guiado la concepción de todo el proyecto. De este modo, en todo momento se visualizará el resultado del acuerdo político y cuáles son las propuestas que se han extraído o incorporado respecto al documento inicial y respecto al documento resultante del proceso participativo. Asimismo, en el documento final quedará constancia del origen de cada propuesta y se especificará si ésta es fruto de una propuesta del Gobierno, de un grupo municipal, de una cita presencial o de una propuesta hecha a través de la plataforma digital decidim.barcelona.
@@ -159,9 +159,9 @@ es:
           item-5: Comparte las propuestas en las redes sociales.
           title: Participa
         part-3:
-          item-1: 'Haz un seguimiento de todas las propuestas: las iniciadas en la plataforma y las generadas en las citas presenciales.'
-          item-2: Conoce todos los datos de las citas presenciales y los debates que se han llevado a cabo.
-          item-3: Después de las citas presenciales consulta en la plataforma todo el recorrido de los debates y las aportaciones generadas.
+          item-1: 'Haz un seguimiento de todas las propuestas: las iniciadas en la plataforma y las generadas en las encuentros presenciales.'
+          item-2: Conoce todos los datos de las encuentros presenciales y los debates que se han llevado a cabo.
+          item-3: Después de las encuentros presenciales consulta en la plataforma todo el recorrido de los debates y las aportaciones generadas.
           item-4: Marca una propuesta y sigue toda su evolución, desde los comentarios de otras personas hasta el documento final del Plan municipal.
           title: Haz seguimiento de las propuestas
         title: "¿Qué puedo hacer en decidim.barcelona?"

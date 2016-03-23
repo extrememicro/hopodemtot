@@ -7,37 +7,37 @@ es:
       featured:
         title: Propuestas del Ayuntamiento
       meetings:
-        title: Próximas citas presenciales
+        title: Próximas encuentros presenciales
     categories:
-      subtitle: Desde el Ayuntamiento de Barcelona hemos elaborado una primera propuesta de plan para la ciudad y los distritos que incluye diversas actuaciones en diferentes ejes y líneas estratégicas.
-      title: Los cinco ejes del Plan Municipal
+      subtitle: Queremos que esta propuesta sea la de todas y todos los que creemos que es el momento de repensar Podemos Cataluña. A partir de aquí hemos establecido diferentes ejes como base de deliberación.
+      title: Ejes y líneas estratégicas
     description:
-      text1: "<Strong>decidim.barcelona</strong> es la plataforma de participación digital del Ayuntamiento de Barcelona.Pretende ser un espacio de referencia para construir una ciudad democrática, abierta y transparente que potencie la participación de la ciudadanía en la construcción y definición de las políticas de la ciudad."
-      text2: Inicialmente se desarrolla el proceso de participación para la elaboración del Plan de Actuación Municipal 2016-2019 y pretende acoger nuevos procesos de participación una vez este finalice. <Strong>El Plan Municipal</strong> se elabora al inicio de cada mandato y establece las líneas prioritarias, los objetivos y las actuaciones que el Gobierno de la ciudad desarrollará en los próximos cuatro años.
+      text1: "<strong>ara.hopodemtot</strong> es la plataforma de participación digital y espacio de referencia para construir uno Podemos Cataluña democrático, abierto y transparente que potencie la participación de la ciudadanía en la construcción y definición de la organización."
+      text2: Inicialmente se desarrolla el proceso de participación para la elaboración de los ejes de actuación sirviendo, adicionalmente, como repositorio de propuestas. Del intercambio de ideas, opiniones y nuevas <strong>propuestas de mejora</strong> dependerá que acontezcan líneas prioritarias y objetivos para llegar a tener uno Podemos fuerte, plurinacional, de los territorios y confluente.
     download:
       links:
-        epub: Descárgate el Plan Municipal
-        pam: Navega por el Plan Municipal y de los distritos
-      subtitle: Consulta el documento inicial que recoge las propuestas que el equipo de gobierno pone sobre la mesa para consensuar con la ciudadanía y con el resto de grupos políticos con representación en el Ayuntamiento.
-      title: 73 barrios, una Barcelona. Hacia la ciudad de los derechos y las oportunidades
+        epub: Descárgate el Proyecto
+        pam: Navega por las líneas políticás que queremos seguir
+      subtitle: Consulta el documento inicial que recoge las propuestas que el equipo incial de voluntarios pone sobre la mesa para consensuar e iniciar el debate con todas las personas y todos los círculos de Podemos Cataluña.
+      title: Hacia un Podemos fuerte y de los círculos
     header-motto:
       link: Entra y participa
     meetings:
-      title: Citas presenciales
+      title: Encuentros presenciales
     notifications:
       debate:
         now: 'Ahora mismo: %{title}'
         upcoming: "%{title} - %{time}"
     tutorial:
       step-1:
-        description: Navega por las propuestas del Ayuntamiento de Barcelona, coméntalas y apóyalas.
+        description: Navega por las propuestas, coméntalas y apóyalas.
       step-2:
-        description: Lee, comenta y apoya las propuestas ciudadanas.
+        description: Lee, comenta y mejora las propuestas de tus compañeros/as.
       step-3:
-        description: Haz tus propuestas de actuación.
+        description: Haz tus propias propuestas de mejora.
       step-4:
         description: Descubre los debates presenciales que tienes cerca.
-      subtitle: Descubre, debate y propón las actuaciones para la ciudad de Barcelona durante este mandato
+      subtitle: Descubre, debate y propone mejoras por un Podemos Cataluña democrático, abierto y transparente que potencie la participación
       title: "¿Cómo puedo participar?"
     videos:
       title: Ya han participado

@@ -55,7 +55,7 @@ ca:
         search_form:
           button: Cercar
           placeholder: Cercar
-        title: Cites presencials
+        title: Trobades
       pictures:
         index:
           destroy: Eliminar
@@ -63,7 +63,7 @@ ca:
     menu:
       flagged_comments: Comentaris
       flagged_debates: Debats
-      meetings: Cites presencials
+      meetings: Trobades
       proposals: Propostes
       users: Bloqueja usuaris
     proposals:

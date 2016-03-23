@@ -188,7 +188,7 @@ es:
       debates: Debates
       external_link_blog: Noticias
       locale: 'Idioma:'
-      meetings: Citas presenciales
+      meetings: Encuentros presenciales
       moderation: Moderar
       more_information: Más información
       my_account_link: Mi cuenta
@@ -250,7 +250,7 @@ es:
       edit: Editar
       new: Crear cita
       pictures: Imágenes
-      title: Citas presenciales
+      title: Encuentros presenciales
     new:
       form:
         submit_button: Crear cita
@@ -377,7 +377,7 @@ es:
       edit_proposal_link: Editar propuesta
       flag: Esta propuesta ha sido marcada como inapropiada por varios usuarios.
       login_to_comment: Necesitas %{signin} o %{signup} para comentar.
-      meetings_title: Citas presenciales relacionadas
+      meetings_title: Encuentros presenciales relacionados
       share: Compartir
     update:
       form:

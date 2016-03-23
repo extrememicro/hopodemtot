@@ -23,7 +23,7 @@ ca:
       user_permission_support_proposal: Donar suport propostes *
       user_permission_title: Participació
       user_permission_verify: Per poder realitzar totes les accions verifica el teu compte.
-      user_permission_verify_info: "* Només usuaris empadronats al municipi de Barcelona."
+      user_permission_verify_info: "* Només usuaris empadronats a Catalunya."
       username_label: Nom d'usuari
       verified_account: Compte verificat
       verify_my_account: Verificar el meu compte
@@ -34,7 +34,7 @@ ca:
     edit:
       form:
         submit_button: Actualitzar eix
-    filter: Veure propostes d'actuació
+    filter: Veure propostes
     form:
       category_description: Descripció
       category_name: Nom
@@ -42,7 +42,7 @@ ca:
     new:
       form:
         submit_button: Crear eix
-    title: Pla municipal
+    title: Eixos temàtics
   comments:
     comment:
       admin: Administrador
@@ -106,7 +106,7 @@ ca:
       tags_label: Temes
       tags_placeholder: Escriu les etiquetes que vulguis separades per coma (',')
     index:
-      description: Els debats són un espai obert de preguntes amb els diferents tinents alcaldes i l'alcaldessa de Barcelona i tenen lloc en el marc del Pla d'Actuació Municipal. 48 hores abans que comenci el debat ja es poden començar a fer preguntes i/o votar aquelles que es considerin més rellevants. Un cop comenci el debat a l'hora assenyalada s'aniran responent les preguntes donant prioritat a aquelles que tinguin més vots. Per tant és important participar activament en la decisió col·laborativa de quines preguntes són més prioritàries i quines menys. Igualment és important fer les preguntes amb suficient antelació i formulades de la manera més clara i raonada possible perquè estigui ben posicionada quan es comencin a respondre les preguntes.
+      description: Els debats són un espai obert de preguntes amb els diferents candidats a la llista i tenen lloc en el marc del projecte polític-organitzatiu. 48 hores abans que comenci el debat ja es poden començar a fer preguntes i/o votar aquelles que es considerin més rellevants. Un cop comenci el debat a l'hora assenyalada s'aniran responent les preguntes donant prioritat a aquelles que tinguin més vots. Per tant és important participar activament en la decisió col·laborativa de quines preguntes són més prioritàries i quines menys. Igualment és important fer les preguntes amb suficient antelació i formulades de la manera més clara i raonada possible perquè estigui ben posicionada quan es comencin a respondre les preguntes.
       filter_topic:
         one: " amb el tema '%{topic}'"
         other: " amb el tema '%{topic}'"
@@ -188,7 +188,7 @@ ca:
       debates: Debats
       external_link_blog: Notícies
       locale: 'Idioma:'
-      meetings: Cites presencials
+      meetings: Trobades
       moderation: Moderar
       more_information: Informació
       my_account_link: El meu compte
@@ -235,9 +235,9 @@ ca:
       meeting_held_at: Quan es realitzará?
       meeting_proposal_ids: Quines propostes es discutiran o ja s'han discutit?
       meeting_scope: "Àmbit"
-      meeting_scope_city: Tota la ciutat
-      meeting_scope_district: Districtes
-      meeting_scope_note: Es una mesura per a tota la ciutat o només per a un districte?
+      meeting_scope_city: Cap àmbit específic
+      meeting_scope_district: Àmbits d'actuació
+      meeting_scope_note: Es una mesura categoritzada dintre d'un dels àmbits d'actuació o no correspon a cap?
       meeting_start_at: A quina hora comença?
       meeting_title: Títol
       tags_instructions: Etiqueta aquesta proposta. Pots triar entre les nostres propostes o introduir les que vulguis.
@@ -246,11 +246,11 @@ ca:
     index:
       close: Tancar
       delete: Esborrar
-      description: Aquí podràs trobar les més de dues-centes cinquanta cites previstes en el procés de participació. Les cites són trobades presencials en forma de jornades, debats i dinamitzacions en l’espai públic per debatre propostes del Pla d'actuació municipal relacionades amb cadascun dels eixos temàtics (habitatge, educació, sanitat, participació, economia, etc.). Hi ha cites de barri, de districte i de ciutat. Pots participar en totes les que vulguis i les propostes sorgides d’aquestes cites seran penjades a la plataforma perquè tothom les pugui conèixer i debatre.
+      description: Aquí podràs trobar trobdes, tant previstes en el procés de participació, com passades. Les trobades són assemblees presencials en forma de jornades, debats i dinamitzacions en espais oberts per debatre propostes per la redacció del projecte polític-organitzatiu relacionades amb cadascun dels eixos temàtics (transparència, feminisme, participació, comunicació, etc.). Hi ha trobades principalment comarcals. Pots participar en totes les que vulguis i les propostes sorgides d’aquestes cites seran penjades a la plataforma perquè tothom les pugui conèixer i debatre.
       edit: Editar
       new: Crear cita
       pictures: Imatges
-      title: Cites presencials
+      title: Trobades
     new:
       form:
         submit_button: Crear cita
@@ -276,12 +276,12 @@ ca:
         other: Hi ha %{count} noves respostes al teu comentari en
       title: Notificacions
   officials:
-    level_0: No és un càrrec públic
-    level_1: Empleat/da públic
-    level_2: Organització general
-    level_3: Director/a General
-    level_4: Regidor/a
-    level_5: Alcaldessa
+    level_0: No és un col·laborador directe
+    level_1: Col·laboradors
+    level_2: Voluntari HPT
+    level_3: Empleat públic
+    level_4: Grup promotor
+    level_5: Cap de llista
   omniauth:
     facebook:
       sign_in: Entra amb Facebook
@@ -306,16 +306,16 @@ ca:
       show_link: Veure proposta
     form:
       proposal_external_url: Enllaç a documentació addicional
-      proposal_from_meeting: Aquesta proposta surt d'una cita presencial
+      proposal_from_meeting: Aquesta proposta surt d'una trobada presencial
       proposal_official: La proposta és oficial
       proposal_question: Pregunta de la proposta
-      proposal_question_example_html: Ha de ser resumida en una pregunta la resposta sigui Sí o No. <em>Ex. 'Està vostè d'acord en vianants el carrer Major?'</em>
+      proposal_question_example_html: Ha de ser resumida en una pregunta la resposta sigui Sí o No. <em>Ex. 'Està vostè d'acord en ...?'</em>
       proposal_responsible_name: Nom i cognoms de la persona que fa aquesta proposta
       proposal_responsible_name_note: "(individualment o com a representant d'un col·lectiu, no es mostrarà públicament)"
       proposal_scope: "Àmbit"
-      proposal_scope_city: Tota la ciutat
-      proposal_scope_district: Districtes
-      proposal_scope_note: Es una mesura per a tota la ciutat o només per a un districte?
+      proposal_scope_city: Cap dels especificats
+      proposal_scope_district: Àmbits d'actuació
+      proposal_scope_note: Es una mesura categoritzada dintre d'un dels àmbits d'actuació o no correspon a cap?
       proposal_summary: Resum de la proposta
       proposal_summary_note: "(màxim 350 caràcters)"
       proposal_title: Títol de la proposta
@@ -325,8 +325,8 @@ ca:
       tags_label: Temes
       tags_placeholder: Escriu les etiquetes que vulguis separades per una coma (',')
     index:
-      description: Aquí pots navegar per les propostes que el Govern ha elaborat per al Pla d'actuació municipal 2016-2019. A aquestes propostes se sumen d’altres que provenen d’iniciatives ciutadanes, d’espais de debat o de propostes realitzades per entitats i organitzacions. Abans de fer-ne una de nova, mira quines propostes hi ha. D’aquesta manera podràs participar amb més coneixement en el debat ja iniciat, donar suport a les propostes que creguis convenients i, finalment, fer-ne de noves si creus que cap de les que hi ha recull allò que vols proposar. Llegeix, opina i participa-hi!
-      download: Baixa el Pla Municipal
+      description: Aquí pots cercar per les propostes que el grup impulsor ha elaborat inicialment per iniciar el debat per la redacció del projecte polític-organitzatiu. A aquestes propostes se sumen d’altres que provenen de simpatitzants, voluntariat, realitzades a cercles i a espais de debat. Abans de fer-ne una de nova, mira quines hi ha. D’aquesta manera podràs participar amb més coneixement en el debat ja iniciat, donar suport a les propostes que creguis convenients i, finalment, fer-ne de noves si creus que cap de les que hi ha recull allò que vols millorar. Llegeix, opina i participa-hi!
+      download: Baixa el document de proposta inicial
       filter:
         title: Filtrar per
       orders:
@@ -377,7 +377,7 @@ ca:
       edit_proposal_link: Edita proposta
       flag: Aquesta proposta ha estat marcada com inapropiada per diversos usuaris.
       login_to_comment: Necessites %{signin} o %{signup} per fer comentaris.
-      meetings_title: Cites presencials relacionades
+      meetings_title: Trobades relacionades
       share: Compartir
     update:
       form:
@@ -388,11 +388,11 @@ ca:
   shared:
     advanced_search:
       author_type: Per autor categoria
-      author_type_1: Empleat públic
-      author_type_2: Organització Municipal
-      author_type_3: Director general
-      author_type_4: Ciutat regidor
-      author_type_5: Alcaldessa
+      author_type_1: Col·laboradors
+      author_type_2: Voluntari HPT
+      author_type_3: Empleat públic
+      author_type_4: Grup promotor
+      author_type_5: Cap de llista
       author_type_blank: Seleccioneu una categoria
       date: Per data
       date_1: "Últimes 24 hores"
@@ -456,7 +456,7 @@ ca:
       back_link: Tornar
       more_info: Com funcionen els pressupostos participatius?
       recommendation_one: "És fonamental que faci referència a una actuació pressupostable."
-      recommendation_three: Intenta detallar el màxim possible la proposta perquè l'equip de govern encarregat d'estudiar-la tingui les menys dubtes possibles.
+      recommendation_three: Intenta detallar el màxim possible la proposta perquè l'equip encarregat d'estudiar-la tingui les menys dubtes possibles.
       recommendation_two: Qualsevol proposta o comentari que impliqui accions il·legals serà eliminada.
       recommendations_title: Com crear una proposta de despesa
       start_new: Crear una proposta de despesa
@@ -508,5 +508,5 @@ ca:
       user_permission_info: Amb el teu compte ja pots ...
       user_permission_proposal: Crear noves propostes
       user_permission_support_proposal: Donar suport propostes *
-      user_permission_verify_info: "* Només usuaris empadronats al municipi de Barcelona."
+      user_permission_verify_info: "* Només usuaris empadronats a Catalunya, si us plau."
       user_permission_verify_url: verifica el teu compte

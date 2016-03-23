@@ -17,22 +17,22 @@ ca:
     filter_option:
       all: Totes
       citizenship: Ciutadania
-      city: Tota la ciutat
-      district: Un districte
-      from_meetings: Cites presencials
-      meetings: Debatudes a cites presencials
-      official: Ajuntament
-      organization: Organitzacions
+      city: Cap àmbit particular
+      district: Àmbit
+      from_meetings: Trobades
+      meetings: Debatudes a assemblees
+      official: Grup impulsor
+      organization: Cercles
       past: Passades
       upcoming: Properes
     filter_option_group:
-      category_id: Eix
+      category_id: Eixos temàtics
       date: Data
       district: Districte
       other: Altres
       scope: "Àmbit"
       source: Origen
-      subcategory_id: Línia estratègica
+      subcategory_id: Subapartat
     meeting_proposals_autocomplete_input:
       loading: Carregant...
       no_results: No s'han trobat resultats.

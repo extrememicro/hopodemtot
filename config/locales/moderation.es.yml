@@ -55,7 +55,7 @@ es:
         search_form:
           button: Buscar
           placeholder: Buscar
-        title: Citas presenciales
+        title: Encuentros presenciales
       pictures:
         index:
           destroy: Eliminar
@@ -63,7 +63,7 @@ es:
     menu:
       flagged_comments: Comentarios
       flagged_debates: Debates
-      meetings: Citas presenciales
+      meetings: Encuentros presenciales
       proposals: Propuestas
       users: Bloquear usuarios
     proposals:

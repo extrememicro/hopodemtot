@@ -5,39 +5,39 @@ ca:
       citizenship:
         title: Propostes ciutadanes
       featured:
-        title: Propostes de l'Ajuntament
+        title: Propostes inicials
       meetings:
-        title: Properes cites presencials
+        title: Properes trobades presencials
     categories:
-      subtitle: Des de l’Ajuntament de Barcelona hem el·laborat una primera proposta de pla per a la ciutat i per als districtes que inclou diferents actuacions en diversos eixos i línies estratègiques
-      title: Els cinc eixos del Pla municipal
+      subtitle: Volem que aquesta proposta sigui la de totes i tots els que creiem que és el moment de repensar Podem Catalunya. A partir d’aquí hem establert diferents eixos com a base de deliberació.
+      title: Eixos i línies estratègiques
     description:
-      text1: "<strong>decidim.barcelona</strong> és la plataforma de participació digital de l'Ajuntament de Barcelona. Volser un espai de referència per construir una ciutat democràtica, oberta i transparent que potenciï la participació de la ciutadania en la construcció i definició de les polítiques de la ciutat."
-      text2: Inicialment s'hi desenvolupa el procés de participació per a l’elaboració del Pla d'actuació municipal 2016-2019 i pretén incloure nous processos de participació un cop aquest acabi. <strong>El Pla d'actuació municipal</strong> s’elabora a l’inici de cada mandat i estableix les línies prioritàries, els objectius i les actuacions que el Govern de la ciutat desenvoluparà en els propers quatre anys.
+      text1: "<strong>ara.hopodemtot</strong> és la plataforma de participació digital i espai de referència per construir un  Podem Catalunya democràtic, obert  i transparent que  potenciï la participació de la ciutadania en la construcció i definició de l'organització."
+      text2: Inicialment s'hi desenvolupa el procés de participació per la redacció d’un <strong>document polític-organitzatiu</strong> servint, addicionalment,  com a repositori de propostes. Del intercanvi d'idees, opinions i noves propostes de millora dependrà  que esdevinguin línies prioritàries i objectius per arribar a tenir un Podem fort, plurinacional, dels territoris i confluent.
     download:
       links:
-        epub: Baixa el Pla municipal
-        pam: Navega pel Pla municipal i dels districtes
-      subtitle: Consulta el document inicial que recull les propostes que l’equip de govern posa sobre la taula per consensuar amb la ciutadania i amb la resta de grups polítics amb representació a l’Ajuntament.
-      title: 73 barris, una Barcelona. Cap a la ciutat dels drets i les oportunitats
+        epub: Baixa el Projecte
+        pam: Navega per les línies polítiques que volem seguir
+      subtitle: Consulta el document inicial que recull les propostes que l’equip inicial de voluntaris posa sobre la taula per consensuar i iniciar el debat amb totes les persones i tots els cercles de Podem Catalunya.
+      title: Cap a un Podem fort i dels cercles
     header-motto:
       link: Entra i participa
     meetings:
-      title: Cites presencials
+      title: Trobades comarcals
     notifications:
       debate:
         now: 'Ara mateix: %{title}'
         upcoming: "%{title} - %{time}"
     tutorial:
       step-1:
-        description: Navega per les propostes de l'Ajuntament de Barcelona, comenta-les i dóna-hi suport.
+        description: Navega per les propostes, comenta-les i dóna-hi suport.
       step-2:
-        description: Llegeix i comenta les propostes ciutadanes i dóna-hi suport.
+        description: Llegeix i comenta les propostes dels companys i millora-les.
       step-3:
-        description: Fes les teves propostes d'actuació.
+        description: Dóna a conèixer les teves pròpies propostes.
       step-4:
         description: Descobreix els debats presencials que tens a prop.
-      subtitle: Descobreix, debat i proposa les actuacions per a la ciutat de Barcelona durant aquest mandat
+      subtitle: Descobreix, debat i proposa millores per un Podem Catalunya democràtic, obert i transparent que potenciï la participació
       title: Com puc participar-hi?
     videos:
       title: Ja hi han participat

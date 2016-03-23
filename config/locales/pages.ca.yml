@@ -2,169 +2,176 @@
 ca:
   pages:
     download:
-      download-district: Descarrega't el PAD de %{district}
-      download-pam: Descarrega't el PAM
-      title: Descarrega't el Pla municipal
+      download-district: Descarrega't el %{district}
+      download-pam: Descarrega't Document de participació
+      title: Descarrega't els documents
     more_information:
       faq:
         question-1:
-          answer: El document inicial recull les propostes que l’equip de govern posa sobre la taula per consensuar amb la ciutadania i amb la resta de grups polítics presents a l’Ajuntament. Inclou les propostes que ja s’han començat a treballar en sessions presencials amb entitats i associacions dels deu districtes.
-          title: Quines propostes inclou el Pla municipal?
+          answer: Ho Podem Tot és un projecte col·lectiu que pretén iniciar l’obertura d’un seguit de debats i espais participatius amb la finalitat de construir un projecte polític-organitzatiu comú per Podem Catalunya.
+          title: Què és Ho Podem Tot?
         question-10:
           answer: El primer és crear un compte bàsic. Per això fem clic a l'enllaç Crea i emplenem les dades que ens demanen. És un requisit marcar la casella d'acceptació de les condicions d'ús, i emplenar correctament el CAPTCHA (a la part inferior del formulari se'ns presenta una imatge amb unes lletres deformades que haurem d'introduir a la casella inferior com a mesura de seguretat; tingues en compte la diferència entre majúscules i minúscules). Creant un nou compte ens arribarà un correu electrònic a l'adreça que hàgim especificat, i haurem de fer clic a l'enllaç que conté (l'enllaç que posa "Confirmar el meu compte") per acabar de crear el compte.
-          answer-2: Un cop creat el compte bàsic, i després d'entrar amb el nostre correu i contrasenya, el sistema ens donarà l'opció de fer-ne una verificació bàsica. Per fer-ho, fem clic a l'enllaç "El meu compte" de la part superior dreta, i després al botó "Verificar el meu compte". El primer que se'ns demanarà és que introduïm les nostres dades de residència, per verificar que estem empadronats al municipi de Barcelona (és important introduir el número de document amb la lletra, i marcar la casella d'acceptació d'accés al Padró). Si les dades són correctes el nostre compte ens permetrà donar suport a les propostes.
+          answer-2: Un cop creat el compte bàsic, i després d'entrar amb el nostre correu i contrasenya, el sistema ens donarà l'opció de fer-ne una verificació bàsica. Per fer-ho, fem clic a l'enllaç "El meu compte" de la part superior dreta, i després al botó "Verificar el meu compte". El primer que se'ns demanarà és que introduïm les nostres dades de residència, per verificar que som de Catalunya. Si les dades són correctes el nostre compte ens permetrà donar suport a les propostes.
           title: Com creo i verifico el meu compte?
         question-11:
           answer: Sobre la possibilitat d'unificar propostes, el que poden semblar petites diferències entre dues propostes similars, poden marcar grans diferències a l'hora de fer-les realitat. Per això hi ha persones que poden voler donar suport a una d'aquestes i no a altres. És per això que hem de respectar els suports particulars que hagi donat la gent, i no unificar les propostes. Això és independent del fet que els autors de les propostes vulguin unir-les. Un cop les propostes estan rebent suports passen a ser tant de la gent que els dóna suport com dels seus autors.
           title: Hi ha moltes propostes semblants, no es podrien unificar?
         question-12:
-          answer: Pots sol·licitar un nova contrasenya perquè se t'enviï al teu correu electrònic. Si la solució anterior no funciona, pots enviar un correu electrònic a l'adreça suport@decidim.barcelona, on et resoldran el problema associat al teu compte. També pots dirigir-te i participar als debats presencials que es faran per tot Barcelona.
+          answer: Pots sol·licitar un nova contrasenya perquè se t'enviï al teu correu electrònic. Si la solució anterior no funciona, pots enviar un correu electrònic a l'adreça <a href=mailto:hopodemtot@gmail.com>hopodemtot@gmail.com</a>, on et resoldran el problema associat al teu compte. També pots dirigir-te i participar als debats presencials que es faran per tot Catalunya.
           title: M'he oblidat de la contrasenya o no em funciona, què puc fer?
         question-13:
-          answer: Revisa la secció "No em funciona la verificació de residència", per si el problema estigués en aquest pas, que sol ser el problema més freqüent. Si no s'ha solucionat, revisa la secció "Com creo i verifico el meu compte?", per assegurar-te que estàs seguint els passos adequadament. Si encara es manté el problema, pots enviar un correu electrònic a l'adreça suport@decidim.barcelona, i te'l resoldran.
+          answer: Revisa la secció "No em funciona la verificació de residència", per si el problema estigués en aquest pas, que sol ser el problema més freqüent. Si no s'ha solucionat, revisa la secció "Com creo i verifico el meu compte?", per assegurar-te que estàs seguint els passos adequadament. Si encara es manté el problema, pots enviar un correu electrònic a l'adreça hopodemtot@gmail.com, i te'l resoldran.
           title: No aconsegueixo crear el meu compte correctament
         question-14:
           answer: Fes clic a l'enllaç "Entra", introdueix la teva adreça electrònica i la contrasenya, i prem el botó "Entra". Un cop fet això, fes clic a l'enllaç "El meu compte", on trobaràs totes les opcions que et permetran canviar la teva adreça electrònica, nom d'usuari, contrasenya, donar-te de baixa o activar o desactivar les notificacions. Un cop fet el canvi adequat assegura't de fer clic al botó "Desa els canvis".
           title: Com puc canviar la meva adreça electrònica, el meu nom d'usuari, la contrasenya, donar-me de baixa o activar o desactivar les notificacions que m'arriben al correu electrònic?
         question-2:
-          answer: Qualsevol persona major de 16 anys pot fer aportacions i propostes, i donar suport i matisar les altres actuacions proposades, de manera que el debat serveixi per enriquir el document final que haurà d’aprovar el Ple de l’Ajuntament.
-          title: Qui pot fer aportacions al Pla municipal?
+          answer: Aquest projecte neix de la inquietud per dotar a PODEM Catalunya d’una estructura forta i cohesionada, però, sobretot de posar sobre la taula un debat col·lectiu que reivindiqui el nostre ADN reconnectant amb els cercles i els nostres inscrits sense oblidar el més important que és conformar un equip fort que impulsi el canvi en la nostra organització i en la societat.
+          title: Com sorgeix aquesta iniciativa?
         question-3:
-          answer: L’ajuntament organitza un seguit de jornades, tallers i debats on, de manera presencial, es poden fer i debatre propostes relacionades tant amb la ciutat, com amb els barris i districtes. N’hi ha de sectorials i n’hi ha de territorials. Aquí hi ha el calendari previst. També es pot participar i debatre digitalment per mitjà d’aquesta plataforma digital.
-          title: Com es poden fer propostes?
+          answer: Aquest ambiciós projecte està recolzat per gent de PODEM. No tenim més aval que el treball fet com a voluntaris i voluntàries que hem omplert d’il∙lusió els cercles i arrossegat el canvi pels nostres municipis.
+          title: Qui som?
         question-4:
-          answer: En equipaments municipals de tots els districtes. Pots consultar on es fan les cites presencials aquí.
-          title: On es fan les cites presencials?
+          answer: En aquests moments estem ampliant aquest projecte per a que tothom tingui la seva. Per això estem en un procés d’expansió organitzativa en el que estem repartint les tasques per la multitud de voluntaris i voluntàries que s’inscriuen. Hem iniciat un treball organitizatiu en l’àrea d’Organització i Logística i un altre en l’àrea de la Comunicació per portar a terme el procés de debat.
+          title: Com ens organitzem?
         question-5:
-          answer: El procés en general i la situació de cada proposta, en particular, es poden seguir en tot moment a través d’aquesta plataforma digital.
-          title: Per què és un procés transparent i traçable?
+          answer: Primer de tot et volem donar les gràcies per ajudar-nos en aquest procés de territorialització del debat. En segon lloc, et recomanem que t’inscriguis com a voluntari a la pagina web <a href=http://hopodemtot.info>hopodemtot.info</a> i vagis a l’apartat “Tu També Ho Pots Tot?” omplis el formulari i t’inscriguis a l’equip d’organització i logística. Un cop inscrit podràs col·laborar amb altres voluntaris del teu territori per generar las trobades comarcals.
+          title: Vull organitzar una Trobada, què haig de fer?
         question-6:
-          answer: 'Comprova les possibilitats següents:'
-          answer-list-1: Has posat el DNI o document amb tots els caràcters junts, incloent-hi la lletra al final?
-          answer-list-2: Estàs segur que estàs empadronat al municipi de Barcelona? (El municipi és geogràficament més petit que la província de Barcelona.)
-          answer-list-3: Potser hi ha algun problema amb les teves dades en el registre d'empadronament. Conusulta la teva <a href="http://ajuntament.barcelona.cat/ca/canals-comunicacio-ciutadana/presencials/oac"> oficina d'atenció al ciutadà </a> més propera i confirma que la teva informació del Padró és correcta.
-          answer-list-4: Si tots els passos anteriors no solucionen el problema, pots enviar-nos un correu electrònic a suport@decidim.barcelona o venir als debats presencials que s'estan fent per tota la ciutat de Barcelona.
-          title: No em funciona la verificació de residència
+          answer: "Per tal de fer realitat aquest projecte tant il·lusionant comptem amb tu per dur a terme les tasques de logística i comunicació, entre d’altres.  Apunta’t com a voluntari o voluntària a Tú també Ho Pots Tot a <a href=http://hopodemtot.info>hopodemtot.info</a> per ajudar-nos a moure el canvi real de la manera de fer política i model organitzatiu col·lectiu. Aquestes són les àrees creades en les que pots col.laborar amb la resta de companys i companyes:"
+          answer-list-1: Àrea d´Organització i Logística
+          answer-list-2: Àrea de Comunicació
+          answer-list-3: També pots participar assistint a les trobades comarcals que organitzem arreu del territori on debatrem i recollirem propostes, així com pots fer arribar també les teves propostes mitjançant els formularis que trobaràs al web <a href=http://hopodemtot.info>hopodemtot.info</a>.
+          answer-list-4: Perquè la majoria ha d´estar organitzada! Si tens algun dubte o vols rebre altre tipus d’informació, contacte amb nosaltres mitjançant Tu també Ho Pots Tot a <a href=http://hopodemtot.info>hopodemtot.info</a> o correu electrònic <a href=mailto:hopodemtot@gmail.com >hopodemtot@gmail.com</a>
+          title: Què pots fer tu per participar?
         question-7:
-          answer: El suport i la votació de propostes es limiten a la gent empadronada a Barcelona, ​​ja que es tracta de prendre decisions que afectaran el municipi i les persones que hi viuen, i per tant ens sembla que són ells els qui han de prendre la decisió final. És cert que hi ha persones que no estan empadronades a Barcelona i que, tot i així, aquestes decisions les poden afectar, però el Padró és el cens més ampli de què disposem que ens permet que el procés de participació sigui segur i arribem al màxim nombre possible de persones. Així i tot, sí que és possible participar encara que no s'estigui empadronat. Pots participar presencialment als debats per al procés del Pla municipal, i també és possible llançar una proposta, o comentar les propostes existents, sense necessitat d'estar empadronat. Només els suports a les propostes es limiten a la gent empadronada.
-          title: No estic empadronat a Barcelona, per què no puc participar?
+          answer: Ens agradaria parlar amb tu, que ens expliquessis les teves propostes i, per tant, et convidem a assistir a les trobades comarcals que organitzarem arreu del territori. Però com que sabem que no tothom pot disposar del temps que vol, o no pot desplaçar-se a les trobades, hem habilitat un espai al web <a href=http://ara.hopodemtot.info>ara.hopodemtot.info</a> perquè puguis dir la teva. Des d’allà podràs fer tantes propostes com vulguis deixant les teves dades de contacte.
+          title: Com faig arribar una proposta?
         question-8:
           answer: 'Per utilitzar el web necessites un compte d''usuari. Segons el grau de verificació podràs fer més o menys coses:'
           answer-1: 'Si et registres al web amb l''adreça electrònica i no dónes cap dada més (no fem el procés de verificació de residència) podràs:'
           answer-1-1: Donar suport a propostes.
           answer-1-2: Comentar i argumentar propostes.
           answer-2: 'Si després de registrar-te has fet la verificació bàsica, és a dir, has verificat la residència a través del web (+ info a "Com creo i verifico el meu compte?") podràs:'
-          answer-part-2: Sempre pots participar de manera presencial i sense autenticar-te a qualsevol dels debats que hi ha per tot Barcelona.
+          answer-part-2: Sempre pots participar de manera presencial i sense autenticar-te a qualsevol dels debats que hi ha per tot Catalunya.
           title: Per a què serveix verificar el meu compte? Què és això de la carta amb un codi que em demaneu?
         question-9:
-          answer: No. Totes les accions relacionades amb les propostes, tant crear-les, com donar-los suport, votar-les o informar-nos-en, les podem fer presencialment a qualsevol dels debats que s'estan duent a terme i que hi ha per tot Barcelona. També podem crear-nos un compte d'usuari completament verificat, en cas que optem en algun moment per utilitzar el web directament.
+          answer: No. Totes les accions relacionades amb les propostes, tant crear-les, com donar-los suport, votar-les o informar-nos-en, les podem fer presencialment a qualsevol dels debats que s'estan duent a terme i que hi ha per tot Catalunya. També podem crear-nos un compte d'usuari completament verificat, en cas que optem en algun moment per utilitzar el web directament.
           title: Necessito telèfon mòbil o accés a internet per poder participar?
         title: Preguntes freqüents
       section_1:
-        paragraph-1: 'El Pla d’actuació municipal (PAM) defineix el full de ruta per a la construcció d’una ciutat més equitativa i inclusiva, on tothom pugui viure dignament i hi tingui veu. Una ciutat en què la gent se senti protagonista, acollida i cuidada.'
-        paragraph-2: El PAM estableix les línies prioritàries, els objectius i les actuacions que el Govern de la ciutat desplegarà durant el mandat. La finalitat és impulsar un projecte socioeconòmic que ha de contribuir a revertir les dinàmiques que han accentuat les desigualtats entre persones i barris, al temps que ha d’iniciar la transició cap a una ciutat que no pot ser aliena als grans reptes ambientals i energètics del nou segle.
-        paragraph-3: El PAM, doncs, inclou mesures urgents que no admeten espera, però també té una mirada estratègica, de mitjà i llarg termini en el desenvolupament socioeconòmic, en la cultura, en la innovació tecnològica, en la igualtat de gènere, en l’aprofundiment democràtic, en la lluita contra la contaminació i el canvi climàtic…, en tots els àmbits que han de contribuir a fer de Barcelona una ciutat de drets i d'oportunitats.
-        paragraph-4: L’Ajuntament de Barcelona, partint d'una proposta inicial elaborada per l’equip de govern, obre un procés de participació ciutadana per construir, pensar i debatre entre tots les actuacions i prioritats que s’hi han inclòs. Aquest ha de ser un pas endavant en la construcció col•lectiva de Barcelona.
-        title: Què és el Pla d’actuació municipal de Barcelona?
+        paragraph-1: Avui a Catalunya estem vivint una reconfiguració gairebé total del mapa polític. Aquesta reconfiguració és conseqüència directa de l’esgotament d’un model polític i econòmic d’una societat que està canviant, reclamant presència no sols als carrers i places sinó també a les institucions. Després del cicle electoral creiem que és el moment de repensar Podem Catalunya després de dos anys de vida. En aquest escenari, diferents persones que formem part de Podem Catalunya hem decidit implicar-nos a fons en un projecte per debatre i acabar proposant una candidatura per al nou Consell Ciutadà Català de Podem.
+        paragraph-2: 'S’obre així, un procés de participació ciutadana per construir, pensar i debatre entre tots i totes, la redacció d’un document polític-organitzatiu que defineixi el full de ruta. Aquest ha de ser un pas endavant en la construcció col•lectiva d’un Podem Catalunya fort on tothom hi tingui veu. Un Podem en què la gent se senti protagonista, acollida i orgullosa de ser-hi part.'
+        paragraph-3: El document polític-organitzatiu estableix les línies prioritàries, els objectius i les actuacions on la finalitat és impulsar un projecte socioeconòmic que ha de contribuir a revertir les dinàmiques que han accentuat les friccions entre companys, al temps que ha d’iniciar la transició cap a un partit que no pot ser alié als grans reptes d'implicació ciutadana del nou segle.
+        paragraph-4: El document polític-organitzatiu, doncs, inclou mesures de millora en diferents eixos temàtics, però també té una mirada estratègica, de mitjà i llarg termini en el desenvolupament intern de Podem Catalunya, en la comunicació, en la innovació tecnològica, en rendiment de comptes, en la lluita contra la falta de transparència i el lligam amb el territori…, en tots els àmbits que han de contribuir a fer de Podem una eina d'empòderament ciutadà.
+        title: Què és el projecte Ho Podem Tot?
       section_10:
-        paragraph-1: El món associatiu, les entitats, associacions, gremis, col·lectius, són l’esperit de la ciutat, han jugat un paper clau en la construcció de Barcelona. I són les que millor coneixen els problemes, necessitats, i moltes vegades les solucions del seu barri, sector, àmbit de treball, etc. Per això, si ets una entitat o associació i vols organitzar un debat, l’Ajuntament et facilita la infraestructura necessària per a què ho puguis fer. Escriu-nos un mail a participacio@bcn.cat  i des de l’Àrea de participació ens posarem en contacte amb vosaltres per facilitar-vos el "KIT DE PARTICIPACIÓ PER A L’AUTORGANITZACIÓ DE DEBATS EN EL PLA MUNICIPAL 2016-2019" i el suport necessari per a realitzar el debat.
-        title: Vols organitzar un debat?
+        paragraph-1: En el nostre projecte volem que la conformació  de la candidatura es faci seguint un criteri i dos eixos fonamentals. Un criteri en el qual el projecte va per davant dels personalismes, i és per això que situem aquest punt al final de totes les nostres propostes base. Volem construir un projecte basat en les idees que enforteixin la nostra organització i com ens relacionem les unes amb les altres. Per això parlem que calen dos eixos fonamentals que nodreixin el nou Consell Ciutadà Català d'una representativitat territorial i alhora un grup tècnic que, més enllà del territori, sigui capaç de fer front a reptes ideològics i de caràcter més polítics. 
+        paragraph-2: De les trenta-quatre persones que formaran el Consell Ciutadà Català, considerem que una part d'elles hauran de ser escollides amb criteris de representació territorial mitjançant caucus territorials. Aquestes  persones hauran de rebre l'aval d'un Cercle tal com marca el nostre reglament de primàries i  acudir a una trobada presencial on presentaran la seva candidatura i seran  escollides per criteris de paritat entre les dues persones més votades a cada territori. Les altres persones seran escollides seguint criteris tècnics que generin un nucli de plena confiança per la secretaria general per administrar i cobrir un perfil alhora també molt polític necessari en qualsevol direcció d'una organització. La idea principal és que aquesta representació territorial i tècnica estiguin en equilibri en el nou Consell Ciutadà Català en la màxima igualtat de representació possible.
+        paragraph-3: Com considerem que el primer de tot són les idees i no quines persones formaran aquesta candidatura, tots els caucus territorials i de conformació de la candidatura seran debatuts i establerts posteriorment a tot el procés de confecció del Projecte Polític-Organitzatiu final.
+        title: Com farem la llista de totes i tots?
       section_2:
         links-1:
-          link-1: Navega per la proposta inicial de l'Ajuntament
+          link-1: Navega per les propostes inicials
           link-2: Baixa el PDF
-        paragraph-1: 'El Pla municipal 2016-2019, "73 barris, una Barcelona. Cap a la ciutat dels drets i les oportunitats", s’estructura en cinc eixos: el bon viure, l’economia plural, les persones, el bon govern i el compromís de la ciutat amb la justícia global. Inclou també a l’inici del document una introducció que, a manera de síntesi, fa una mirada global a la Barcelona d’avui i posa èmfasi en allò que cal millorar i potenciar, avalua quin és el model de ciutat que es vol desplegar en els propers anys i detalla algunes de les mesures més significatives que es volen impulsar.'
-        paragraph-2: Cada un dels cinc eixos està dividit en línies estratègiques que abracen diferents àmbits d’acció municipal (habitatge, turisme, ocupació, etcètera) que es detallen en objectius i actuacions concretes.
-        paragraph-3: En total, doncs, el Pla municipal està estructurat en cinc eixos temàtics, dividits en 30 línies estratègiques, 157 objectius i 789 actuacions.
-        paragraph-4: En paral•lel, també s’han elaborat deu plans de districte amb una estructura similar, però amb una mirada territorial específica i, per tant, amb objectius i actuacions pròpies.
-        title: Com s'estructura aquest pla municipal?
+        paragraph-1: 'El document Polític-Organitzatiu s’estructura en deu eixos: Participació, Transparència (amb subapartat específic sobre la contractació de personal), Feminisme i LGTBI, Comissió de garanties democràtiques, Confluència, Plurinacionalitat, Municipalisme, Comunicació, Societat civil / moviments socials i finalment, Territori. Inclou també a l’inici del document una introducció que, a manera de síntesi, fa una mirada global a la Catalunya d’avui i posa èmfasi en allò que cal millorar i potenciar dintre de Podem Catalunya, avalua quin és el model que es vol en els propers anys i detalla algunes de les mesures més significatives que es volen impulsar.'
+        paragraph-2: Cada un dels deu eixos forma part de tres línies estratègiques que abracen diferents àmbits per un Podem fort i Plurinacional, en els territoris i confluent. 
+        paragraph-3: En total, doncs, el documento Polític-Organitzatiu està estructurat en deu eixos temàtics, dividits en 3 línies estratègiques.
+        title: Com s'estructura aquest document?
       section_3:
-        paragraph-1: El  context polític, econòmic i social actual ha demostrat la necessitat de comptar amb la ciutadania en la presa de decisions sobre les actuacions municipals, així com l’eficàcia de les polítiques públiques quan són fruit del consens més ampli. La implicació i participació ciutadana en l’elaboració de les polítiques públiques és una eina de millora de la  democràcia per la qual l’Ajuntament de Barcelona, tal com recull la seva Carta municipal (enllaç), fa una aposta ferma.
-        paragraph-2: Quan l’aposta per la implicació de la ciutadania en el disseny i desenvolupament de les polítiques públiques és real i convincent, aquesta permet, en primer lloc, elaborar una política en millors condicions per respondre més eficientment a les demandes i necessitats socials i, en segon lloc, una coresponsabilització més gran entre ciutadania i Ajuntament que en millora, també, l'aplicació, el seguiment i l'avaluació posteriors.
-        title: 'Per què un procés participatiu pel Pla municipal? '
+        part-1:
+          paragraph-1: Plurinacional perquè vivim en un país de països, som conscients de les diverses realitats que existeixen en tot el territori i considerem que som els ciutadans i ciutadanes els qui hem de decidir quin és el model territorial i de societat en el qual volem viure. Això significa defensar la plurinacionalitat i un dret a decidir-ho tot en matèries socials, energètiques, culturals, polítiques, econòmiques, etc. així com defensar un referèndum amb totes les garanties que materialitzi aquest dret i avançar cap a un procés constituent fet per les classes populars. 
+          paragraph-2: Som “Podem” a Catalunya i això suposa una singularitat. Hi ha característiques pròpies, tant socials com polítiques (moviments socials diferents, altres forces polítiques, etc.) i, per tant, hem de saber interpretar les necessitats que la casa nostra té i que la fan tan especial. Així com creiem en un projecte plurinacional, això ha de traduir-se internament. Per ser decisius en la política catalana haurem de construir un projecte propi autònom, mantenint un diàleg fraternal i de col·laboració amb totes les forces que formen part del nostre projecte, així com enfortint el perfil propi de Podem per tal de dialogar amb altres actors. 
+          paragraph-3: En definitiva, defensem la pluralitat nacional de l’estat, de la mateixa manera que vàrem reivindicar que EnComúPodem havia de tenir grup parlamentari propi, entenem que hem de proposar un model de partit que potenciï un projecte polític propi. “Si Podem defensa la pluralitat nacional de l’estat, de la mateixa manera que vàrem defensar que EnComúPodem havia de tenir grup parlamentari propi entenem que hem de proposar un model de partit que ens potencii com a projecte polític propi.”
+          title: 'Podem fort i plurinacional'
+        part-2:
+          paragraph-1: En els territoris perquè avui dia som una força política implantada en bona part del territori català. Podem a Catalunya ha de respondre a aquesta realitat i potenciar eines que la fomentin, ja que els cercles i simpatitzants d’arreu dels territoris són la nostra força real. Per això hem de construir un projecte que treballi braç a braç amb els cercles, que segueixi  implantant-se i que generi relacions amb els diferents actors locals (associacions de veïns i veïnes, entitats,  plataformes, moviments, etc.). La connexió amb la realitat territorial treballada des del dia a dia als barris i pobles és el fonament d’un projecte sòlid, d’aquí que s’hagi de fer valdre i incentivar els cercles a nivell local com a eix central i fonamental de la nostra organització. 
+          paragraph-2: La nostra proposta al respecte consisteix en la creació d’un nou espai d’extensió territorial, un espai plural i representatiu de tot el territori que sigui el primer contacte d’extensió amb els cercles territorials. Aquest espai també ha de vetllar per la bona praxi del nou Consell Ciutadà Català i facilitar eines de fiscalització interna per a fomentar una organització participativa i transparent, de manera que es faci possible l’empoderament de tota persona que vulgui formar part de Podem.
+          title: 'Podem fort i en els territoris'
+        part-3:
+          paragraph-1: Confluent perquè des de l’inici hem entès Podem com una eina d’empoderament de la gent, com un projecte polític de canvi real que estigui al servei de les classes populars. En l’actualitat molts de nosaltres hem aportat la nostra essència teixint espais de confluències a Catalunya tant a nivell municipal com supramunicipal amb altres forces polítiques i actors de la societat civil. Hem de donar valor a aquest treball fet des dels cercles territorials i sectorials. Això és el que ens fa ser una força confluent i no pas una suma de sigles (Podem + ...). 
+          paragraph-2: A més, aquestes confluències inclouen els nostres aliats per millorar la nostra societat, donar-li veu i trencar definitivament amb el règim del 78. El projecte al que aspirem ha de ser el reflex de la voluntat de les classes populars, naixent i enriquint-se des de la base, la qual cosa vam veure en gran quantitat de les  candidatures que van fer seu l'esperit de la unitat popular i la representació ciutadana, tant el 24M com el passat 20D amb EnComúPodem. En resum, Podem ha de ser l’actor principal de qualsevol alternativa real de canvi a Catalunya, mantenint l’autonomia per a decidir i la nostra posició política consensuada al nostre territori.
+          title: 'Podem fort i confluent'
+        title: 'Quin Podem Catalunya volem?'
       section_4:
         list-1:
-          item-1: "<strong>Cites presencials</strong>: són jornades, debats, trobades a l’espai públic i altres cites presencials per debatre propostes relacionades tant amb la ciutat, com amb els barris i districtes."
-          item-1-link: Aquí pots veure les cites presencials
-          item-2: "<strong>decidim.barcelona</strong>: la plataforma per fer noves aportacions, veure’n altres fetes per la ciutadania o sorgides de les cites presencials, donar suport i comentar i debatre entorn d'aquelles iniciatives que et semblin de més interès per a la ciutat."
-          item-2-link: Propostes a decidim.barcelona
-        paragraph-1: El procés de participació per al Pla municipal és un mètode híbrid entre les cites presencials i els espais digitals. Aquesta singularitat ha impulsat el naixement de la plataforma <strong>decidim.barcelona</strong>.
-        paragraph-2: 'Gràcies a la plataforma decidim.barcelona es crea un espai de participació obert a tota la ciutadania, es fa visible tot el procés de manera transparent i traçable i hi ha un retorn de les propostes introduïdes. '
+          item-1: "<strong>Trobades</strong>: són jornades, debats, trobades a l’espai públic i altres assemblees presencials per debatre propostes relacionades amb els deu eixos temàtics."
+          item-1-link: Aquí pots veure les trobades presencials
+          item-2: "<strong>ara.hopodemtot.info</strong>: la plataforma per fer noves aportacions, veure’n altres fetes per companys o sorgides de les assemblees presencials, donar suport i comentar i debatre entorn d'aquelles iniciatives que et semblin de més interès."
+          item-2-link: Propostes a ara.hopodemtot.info
+        paragraph-1: El procés de participació per al document Polític-Organitzatiu és un mètode híbrid entre les trobades presencials i els espais digitals. Aquesta singularitat ha impulsat el naixement de la plataforma <strong>ara.hopodemtot.info</strong>.
+        paragraph-2: 'Gràcies a la plataforma ara.hopodemtot.info es crea un espai de participació obert a tota la ciutadania, es fa visible tot el procés de manera transparent i traçable i hi ha un retorn de les propostes introduïdes. '
         paragraph-3: 'Així, doncs, aquest procés ha estat pensat perquè durant dos mesos puguis participar-hi de diferents maneres:'
         paragraph-4: Amb aquest procés, volem generar un debat ciutadà sobre els grans temes de la nostra ciutat a partir d’espais de deliberació conjunta i la construcció col·lectiva.
         title: Com puc participar-hi?
       section_5:
         part-1:
-          paragraph-1: Les propostes, els debats, els continguts de les sessions, els resums i les actes de les cites presencials i digitals es publiquen en obert i són accessibles. Un procés amb transparència real que permet equiparar el valor de totes les aportacions i opinions. Al mateix temps, s’amplifica el procés deliberatiu i de generació de consensos.
+          paragraph-1: Les propostes, els debats, els continguts de les sessions, els resums i les actes de les assemblees presencials i digitals es publiquen en obert i són accessibles. Un procés amb transparència real que permet equiparar el valor de totes les aportacions i opinions. Al mateix temps, s’amplifica el procés deliberatiu i de generació de consensos.
           title: Un procés obert i transparent
         part-2:
           list-1:
             item-1: Accedir al recorregut de les propostes.
             item-2: Entendre el perquè d’aquest recorregut.
-            item-3: Comprovar si una idea ha estat inclosa, modificada o rebutjada al Ple municipal.
+            item-3: Comprovar si una idea ha estat inclosa, modificada o rebutjada al document final i el perquè.
             item-4: Conèixer el consens obtingut per cada aportació.
             item-5: Veure els comentaris d’altres participants.
-          paragraph-1: Saber per què participem i què passa amb les propostes que hem fet és bàsic i imprescindible perquè la participació ciutadana sigui realment efectiva. A través de la plataforma decidim.barcelona podràs seguir el recorregut de totes les propostes i saber si finalment s'han incorporat al document final del Pla municipal.
+          paragraph-1: Saber per què participem i què passa amb les propostes que hem fet és bàsic i imprescindible perquè la participació ciutadana sigui realment efectiva. A través de la plataforma ara.hopodemtot.info podràs seguir el recorregut de totes les propostes i saber si finalment s'han incorporat al document final del Pla municipal.
           paragraph-2: 'Per tant, traçabilitat vol dir:'
           paragraph-3: Amb la traçabilitat, en definitiva, podrem rastrejar l’evolució de les aportacions i els debats i conèixer l’estat de les decisions tècniques i polítiques que es prenguin en tot moment.
           title: Un procés traçable
         part-3:
-          paragraph-1: Conviuran durant dos mesos diversitat d’espais presencials en què es debatran els temes de barri i de ciutat. Conviuran, així, els espais reglats de participació com els consells de barri i els consells de ciutat, amb debats especialitzats per sectors, d’altres oberts a la ciutadania, amb infants i dinamitzacions a l’espai públic, i actes més lúdics i culturals. També serà possible que col·lectius i associacions puguin organitzar el seus debats i que posteriorment facin arribar les seves propostes perquè puguin ser valorades per la resta de la ciutadania.
+          paragraph-1: Conviuran durant dos mesos diversitat d’espais presencials en què es debatran els temes de barri i de ciutat. Conviuran, així, els espais reglats de participació com els consells de barri i els consells de ciutat, amb debats especialitzats per sectors, d’altres oberts a la ciutadania, amb infants i dinamitzacions a l’espai públic, i actes més lúdics i culturals. També serà possible que cercles territorials i sectorials puguin organitzar el seus debats i que posteriorment facin arribar les seves propostes perquè puguin ser valorades per la resta de la ciutadania.
           title: Un procés de construcció col·lectiva
         part-4:
-          paragraph-1: El seguiment, l’avaluació i el retorn a la ciutadania de tots aquests compromisos assumits és un dels principals reptes d’aquest procés i d’aquest govern.
-          paragraph-2: En aquest procés participatiu ens comprometem a fer el retorn d’aquelles propostes que hagin estat de consens però que finalment no s'hagin incorporat al document final del Pla municipal.
+          paragraph-1: El seguiment, l’avaluació i el retorn a la ciutadania de tots aquests compromisos assumits és un dels principals reptes d’aquest procés.
+          paragraph-2: En aquest procés participatiu ens comprometem a fer el retorn d’aquelles propostes que hagin estat de consens però que finalment no s'hagin incorporat al document final.
           paragraph-3: La plataforma permetrà, també, fer un seguiment de les propostes generades i veure’n l’evolució.
           title: Retorn i compromís
         title: Els quatre punts clau sobre aquest procés participatiu
       section_6:
-        list-1:
-          item-1: La seva viabilitat temporal, pressupostària i tècnica.
-          item-2: Que es corresponguin amb les competències municipals.
-          item-3: Que no siguin contràries al bé comú.
         paragraph-1: Aquest procés no és vinculant perquè el document final ha de ser aprovat pel Ple municipal i requereix un consens polític suficient.
-        paragraph-2: "Això que es presenta aquí és, per tant, un primer esborrany que s'haurà de modificar amb les aportacions que surtin del procés participatiu. Només aleshores començarà el tràmit per a l’aprovació en el Ple i el període d’al·legacions."
-        paragraph-3: El Govern es compromet a valorar la viabilitat de les propostes amb més suports i a explicar perquè cada una de les propostes s’ha incorporat al document final o s’ha desestimat.
-        paragraph-4: 'Els criteris per valorar les propostes sorgides seran els següents:'
+        paragraph-2: "Això que es presenta aquí és, per tant, un primer esborrany que s'haurà de modificar amb les aportacions que surtin del procés participatiu."
+        paragraph-3: El grup impulsor d'Ho Podem Tot es compromet a valorar la viabilitat de les propostes amb més suports i a explicar perquè cada una de les propostes s’ha incorporat al document final o s’ha desestimat.
         title: "És vinculant aquest procés participatiu?"
       section_7:
         list-1:
-          item-1: En la primera, el Govern municipal ha elaborat la proposta de document en què també s’han recollit propostes d’entitats i associacions, així com dels òrgans de participació. Les propostes d’aquesta primera fase es poden veure a la plataforma decidim.barcelona.
-          item-2: La segona fase és el moment de màxima obertura i participació. Durant dos mesos i mig s’organitzen centenars de cites presencials on tothom pot participar, dir-hi la seva i debatre les propostes. En aquesta mateixa fase es pot participar a través de decidim.barcelona, on quedaran totes les propostes recollides i se’n podrà seguir el recorregut.
-          item-3: 'Un cop acabat el procés participatiu, el Govern municipal valora les propostes amb més suports i n’estudia la viabilitat per incorporar-les al document del Pla municipal. Finalment, es farà un retorn de les propostes. Paral·lelament a tot aquest procés, s’obre, també, una fase de diàleg amb els grups municipals per arribar a un document de consens que es pugui aprovar al ple municipal del mes de juliol. El document ha de ser aprovat per majoria àmplia i això requereix pactes segons la configuració actual del consistori. '
+          item-1: En la primera, s'ha elaborat la proposta de document preliminar per incentivar el debat inicial. Les propostes d’aquesta primera fase es poden veure a la plataforma ara.hopodemtot.info.
+          item-2: La segona fase és el moment de màxima obertura i participació. Durant un mes i mig s’organitzen centenars de assemblees presencials on tothom pot participar, dir-hi la seva i debatre les propostes. En aquesta mateixa fase es pot participar a través de ara.hopodemtot.info, on quedaran totes les propostes recollides i se’n podrà seguir el recorregut fins el 31 de març a les 23:59h.
+          item-3: 'Un cop acabat el procés participatiu, es valoraran les propostes amb més suports i s’estudiarà la viabilitat per incorporar-les al document final polític-organitzatiu. Finalment, es farà la presentació final del projecte el Dimecres 8 d’Abril. '
         paragraph-1: 'El procés participatiu té tres fases:'
-        paragraph-2: Darrere aquest procés participatiu, hi ha una aposta ferma per la transparència, un principi que ha guiat la concepció de tot el projecte. D’aquesta manera, en tot moment es visualitzarà el resultat de l’acord polític i quines són les propostes que s’han extret o incorporat respecte al document inicial i respecte al document resultant del procés participatiu. Així mateix, en el document final quedarà constància de l’origen de cada proposta i s’especificarà si aquesta és fruit d’una proposta del Govern, d’un grup municipal, d’una cita presencial o d’una proposta feta a través de la plataforma digital decidim.barcelona.
+        paragraph-2: Darrere aquest procés participatiu, hi ha una aposta ferma per la transparència, un principi que ha guiat la concepció de tot el projecte. D’aquesta manera, en tot moment es visualitzarà el resultat de l’acord polític i quines són les propostes que s’han extret o incorporat respecte al document inicial i respecte al document resultant del procés participatiu. Així mateix, en el document final quedarà constància de l’origen de cada proposta i s’especificarà si aquesta és fruit d’una proposta particular, d’un cercle, d’una cita presencial o d’una proposta feta a través de la plataforma digital ara.hopodemtot.info.
         title: Fases i calendari del procés participatiu
       section_8:
         part-1:
-          paragraph-1: decidim.barcelona és la plataforma de participació digital de l'Ajuntament de Barcelona per al mandat actual. Inicialment s’hi desenvolupa el procés de participació del Pla municipal i properament s’hi podran trobar nous processos de participació ciutadana com ara els pressupostos participatius o consultes de ciutat.
-          paragraph-2: decidim.barcelona és un espai de referència per construir una ciutat oberta, transparent, col·laborativa i amb el protagonisme de qui habita la ciutat.
+          paragraph-1: ara.hopodemtot.info és la plataforma de participació digital de l'iniciativa Ho Podem Tot. Inicialment s’hi desenvolupa el procés de participació per la redacció d'un document organitzatiu i properament s’hi podran trobar nous processos de participació.
+          paragraph-2: ara.hopodemtot.info és un espai de referència per construir una Podem obert, transparent, col·laboratiu i amb el protagonisme de les bases.
           title: Una plataforma digital per a la construcció col·lectiva
         part-2:
-          paragraph-1: L’Ajuntament de Barcelona, atenent a les necessitats del procés de construcció col·lectiva de la ciutat, contribueix a la comunitat amb la posada en funcionament d’una plataforma basada en codi obert i disponible per al comú.
+          paragraph-1: Un grup que neix de la inquietud per dotar a PODEM Catalunya d’una estructura forta, atenent a les necessitats del procés de construcció col·lectiva, contribueix a la comunitat amb la posada en funcionament d’una plataforma basada en codi obert i disponible per al be comú.
           paragraph-2: Així, doncs, com que el desenvolupament és en codi obert, qualsevol persona pot veure com està feta la plataforma, a més de fer-hi contribucions, utilitzar-la, modificar-la o millorar-la.
           title: Un projecte col·laboratiu
-        title: Què és decidim.barcelona?
+        title: Què és ara.hopodemtot.info?
       section_9:
         part-1:
-          item-1: Consulta la proposta inicial del Pla muunicipal, "73 barris, una Barcelona".
+          item-1: Consulta la proposta inicial del document polític-organitzatiu.
           item-2: 'Navega per les propostes: les més recents, les més valorades, les més comentades o les que generen més debat.'
           item-3: Filtra els continguts que t’interessin en funció de variables com el districte, els temes o les etiquetes.
           title: Informa’t
         part-2:
           item-1: Fes propostes noves.
-          item-2: Comenta les propostes existents, tant de l’Ajuntament com les ciutadanes.
+          item-2: Comenta les propostes existents, tant les inicials del grup impulsor com de la resta de companys i cercles.
           item-3: Dóna arguments a favor o en contra o fes reflexions generals.
           item-4: Dóna suport a les propostes.
           item-5: Comparteix les propostes a les xarxes socials.
           title: Participa-hi
         part-3:
-          item-1: 'Fes seguiment de totes les propostes: les iniciades a la plataforma i les generades a les cites presencials.'
-          item-2: Coneix totes les dades de les cites presencials i els debats que s’hi han dut a terme.
-          item-3: Després de les cites presencials consulta a la plataforma tot el recorregut dels debats i les aportacions generades.
-          item-4: Marca una proposta i segueix-ne tota l’evolució, des dels comentaris d’altres persones fins al document final del Pla municipal.
+          item-1: 'Fes seguiment de totes les propostes: les iniciades a la plataforma i les generades a les assemblees presencials.'
+          item-2: Coneix totes les dades de les assemblees presencials i els debats que s’hi han dut a terme.
+          item-3: Després de les assemblees presencials consulta a la plataforma tot el recorregut dels debats i les aportacions generades.
+          item-4: Marca una proposta i segueix-ne tota l’evolució, des dels comentaris d’altres persones fins al document final.
           title: Fes seguiment de les propostes
-        title: Què puc fer a decidim.barcelona?
+        title: Què puc fer a ara.hopodemtot.info?
       title: Informació
     titles:
       accessibility: Accessibilitat
