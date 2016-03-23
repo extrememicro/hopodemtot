@@ -130,7 +130,7 @@ ca:
           title: Retorn i compromís
         title: Els quatre punts clau sobre aquest procés participatiu
       section_6:
-        paragraph-1: Aquest procés no és vinculant perquè el document final ha de ser aprovat pel Ple municipal i requereix un consens polític suficient.
+        paragraph-1: Aquest procés no és vinculant perquè el document final requereix una adequació entre les diferents propostes per ser inclusius amb el major nombre d'aquestes.
         paragraph-2: "Això que es presenta aquí és, per tant, un primer esborrany que s'haurà de modificar amb les aportacions que surtin del procés participatiu."
         paragraph-3: El grup impulsor d'Ho Podem Tot es compromet a valorar la viabilitat de les propostes amb més suports i a explicar perquè cada una de les propostes s’ha incorporat al document final o s’ha desestimat.
         title: "És vinculant aquest procés participatiu?"
@@ -176,10 +176,10 @@ ca:
     titles:
       accessibility: Accessibilitat
     verify:
-      code: Codi que has rebut a la carta
+      code: Codi que has rebut
       email: Adreça electrònica
       info: 'Per verificar el teu compte, introdueix les dades amb què et vas registrar:'
-      info_code: 'A continuació, introdueix el codi que has rebut a la carta:'
+      info_code: 'A continuació, introdueix el codi que has rebut:'
       password: Contrasenya
       submit: Verifica el meu compte
       title: Verifica el teu compte

@@ -20,7 +20,7 @@ ca:
         unconfirmed_code: Encara no has introduït el codi de confirmació
       create:
         flash:
-          offices: Oficines d'Atenció al Ciutadà
+          offices: Assemblees Presencials
           offices_url: Offices url
           success_html: Abans de les votacions, rebràs una carta amb les instruccions per verificar el teu compte. <br> Recorda que pots estalviar l'enviament verificant-te presencialment a qualsevol de les %{offices}.
       edit:
@@ -32,7 +32,7 @@ ca:
         explanation: 'Per participar en les votacions finals pots:'
         go_to_index: Mostra propostes
         office: Verificar-te presencialment a qualsevol %{office}
-        offices: Oficina d'Atenció al Ciutadà
+        offices: Assemblees presencials
         offices_url: Offices url
         send_letter: Demana una carta per correu postal
         title: Felicitats!
@@ -50,8 +50,8 @@ ca:
         flash:
           success: Residència verificada
       new:
-        accept_terms_text: Estic d'acord amb %{terms_url} al Padró
-        adult_verification_text: Els majors d'edat a càrrec dels menors de 18 anys, són els plens responsables dels usos que aquests facin de la plataforma Decidim Barcelona
+        accept_terms_text: Estic d'acord amb %{terms_url}
+        adult_verification_text: Els majors d'edat a càrrec dels menors de 18 anys, són els plens responsables dels usos que aquests facin de la plataforma Ho Podem Tot
         date_of_birth: Data de naixement
         document_number: Número de document
         document_type:
@@ -60,12 +60,12 @@ ca:
           spanish_id: DNI
         document_type_label: Tipus de document
         error_not_allowed_age: Has de tenir almenys 16 anys
-        error_not_allowed_postal_code: Per verificar-te has d'estar empadronat al municipi de Barcelona.
-        error_verifying_census: No s'ha pogut verificar la teva informació del Padró. Confirma que les teves dades d'empadronament són correctes o visita qualsevol de les %{offices}.
-        error_verifying_census_offices: 26 oficines d'atenció al ciutadà
+        error_not_allowed_postal_code: Per verificar-te has d'estar empadronat a Catalunya
+        error_verifying_census: No s'ha pogut verificar la teva informació. Confirma que les teves dades són correctes o visita qualsevol de les %{offices}.
+        error_verifying_census_offices: .
         form_errors: no s'ha pogut verificar la teva residència
         postal_code: Codi postal
-        postal_code_note: Per verificar les teves dades has d'estar empadronat al municipi de Barcelona.
+        postal_code_note: Per verificar les teves dades has d'estar empadronat a Catalunya.
         terms: els termes d'accés
         title: Verifica la residència
         verify_residence: Verifica la residència
@@ -104,7 +104,7 @@ ca:
         submit_button: Envia la
       show:
         email_title: Correus electrònics
-        explanation: Actualment disposem de les dades següents al Padró; selecciona on vols que enviem el codi de confirmació.
+        explanation: Actualment disposem de les dades següents; selecciona on vols que enviem el codi de confirmació.
         phone_title: Telèfons
         title: Informació disponible
         use_another_phone: Utilitza un altre telèfon

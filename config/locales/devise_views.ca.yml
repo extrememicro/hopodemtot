@@ -17,7 +17,7 @@ ca:
       confirmation_instructions:
         confirm_link: Confirma el meu compte
         text: 'Pots confirmar el teu compte de correu electrònic a l''enllaç següent:'
-        title: Et donem la benvinguda a decidim.barcelona
+        title: Et donem la benvinguda a ara.hopodemtot
         welcome: Benvingut/uda
       reset_password_instructions:
         change_link: Canvia la contrasenya
@@ -46,17 +46,17 @@ ca:
           password_confirmation_label: Confirma la contrasenya
           password_label: Contrasenya
           phone_number_label: Telèfon
-          responsible_name_label: Nom i cognoms de la persona responsable del col·lectiu
-          responsible_name_note: Nom de la persona que representa l'associació o col·lectiu, en nom de la qual es presentaran les propostes
+          responsible_name_label: Nom i cognoms de la persona responsable del cercle
+          responsible_name_note: Nom de la persona que representa al cercle, en nom de la qual es presentaran les propostes
           submit: Registra't
           title: Registra't com organització/col·lectiu
         success:
           back_to_index: Ho he entès; torna a la pàgina principal
-          instructions_1_html: En breu <b>ens posarem en contacte amb tu</b> per verificar que realment representes aquest col·lectiu.
+          instructions_1_html: En breu <b>ens posarem en contacte amb tu</b> per verificar que realment representes aquest cercle
           instructions_2_html: Mentrestant, <b>revisa el teu correu electrònic</b>; t'hem enviat un <b>enllaç per confirmar el compte.</b>
-          instructions_3_html: Un cop confirmat, podràs començar a participar com a col·lectiu no verificat.
-          thank_you_html: Gràcies per registrar el teu col·lectiu a la web. Ara està <b>pendent de verificació</b>.
-          title: Registre d'organització/col·lectiu
+          instructions_3_html: Un cop confirmat, podràs començar a participar com a cercle verificat.
+          thank_you_html: Gràcies per registrar el teu cercle a la web. Ara està <b>pendent de verificació</b>.
+          title: Registre de Cercle Territorial o Sectorial
     passwords:
       edit:
         change_submit: Canvia la contrasenya
@@ -80,7 +80,7 @@ ca:
         new_confirmation: No has rebut instruccions per confirmar el compte?
         new_password: Has oblidat la contrasenya?
         new_unlock: No has rebut instruccions per desbloquejar el compte?
-        organization_signup: Registra'm com organització/col·lectiu
+        organization_signup: Registra'm com Cercle Territorial o Sectorial
         signin_with_provider: Inicia sessió amb %{provider}
         signup: No tens cap compte? %{signup_link}
         signup_link: Registra't
@@ -111,8 +111,8 @@ ca:
           waiting_for: 'S''està esperant confirmació de:'
         new:
           email_label: Adreça electrònica
-          legal_lopd_text: 'D''acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, us informem que les vostres dades personals s''incorporaran al fitxer Participació Ciutadana de l''Ajuntament de Barcelona, amb la finalitat de Participar en el procés de definició del nou Pla d’Acció Municipal. Les vostres dades no seran cedides a tercers. Podeu exercitar els drets d''accés, rectificació, cancel·lació i oposició, adreçant-vos per escrit al Registre General de l''Ajuntament: pl. Sant Jaume 1, 08002 Barcelona, indicant clarament en l''assumpte Exercici de Dret LOPD.'
-          organization_signup: Representes una organització o col·lectiu? %{signup_link}
+          legal_lopd_text: 'D''acord amb la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, us informem que les vostres dades personals s''incorporaran al fitxer Participació de Ho Podem Tot, amb la finalitat de Participar en el procés de definició del nou document Polític-Organitzatiu per a Podem Catalunya. Les vostres dades no seran cedides a tercers. Podeu exercitar els drets d''accés, rectificació, cancel·lació i oposició, adreçant-vos per email a hopodemtot@gmail.començar, indicant clarament en l''assumpte Exercici de Dret LOPD.'
+          organization_signup: Representes un cercle territorial o sectorial? %{signup_link}
           organization_signup_link: Registra't aquí
           password_confirmation_label: Confirma la contrasenya
           password_label: Contrasenya

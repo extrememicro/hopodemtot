@@ -307,7 +307,7 @@ ca:
     form:
       proposal_external_url: Enllaç a documentació addicional
       proposal_from_meeting: Aquesta proposta surt d'una trobada presencial
-      proposal_official: La proposta és oficial
+      proposal_official: Proposta del document inicial
       proposal_question: Pregunta de la proposta
       proposal_question_example_html: Ha de ser resumida en una pregunta la resposta sigui Sí o No. <em>Ex. 'Està vostè d'acord en ...?'</em>
       proposal_responsible_name: Nom i cognoms de la persona que fa aquesta proposta
