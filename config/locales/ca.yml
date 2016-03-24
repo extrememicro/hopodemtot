@@ -233,7 +233,7 @@ ca:
       meeting_description: Descripció
       meeting_end_at: A quina hora acaba?
       meeting_held_at: Quan es realitzará?
-      meeting_proposal_ids: Quines propostes es discutiran o ja s'han discutit?
+      meeting_proposal_ids: Propostes que s'han debatut o surgit (cal crear-les primer)?
       meeting_scope: "Àmbit"
       meeting_scope_city: Cap àmbit específic
       meeting_scope_district: Àmbits d'actuació
