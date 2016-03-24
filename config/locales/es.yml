@@ -170,7 +170,7 @@ es:
     verification::letter: la verificación
     verification::sms: el teléfono
   geozones:
-    none: Toda la ciudad
+    none: Toda
   layouts:
     application:
       chrome: Google Chrome
@@ -235,7 +235,7 @@ es:
       meeting_held_at: "¿Cuándo se va a realizar?"
       meeting_proposal_ids: "¿Qué propuestas se van a discutir o ya se han discutido?"
       meeting_scope: "Ámbito"
-      meeting_scope_city: Toda la ciudad
+      meeting_scope_city: Ninguno específico
       meeting_scope_district: Ámbitos de actuación
       meeting_scope_note: "¿Es una medida categorizada dentro de uno de los ámbitos de actuación o no corresponde a ninguna?"
       meeting_start_at: "¿A que hora empieza?"
@@ -313,7 +313,7 @@ es:
       proposal_responsible_name: Nombre y apellidos de la persona que hace esta propuesta
       proposal_responsible_name_note: "(individualmente o como representante de un colectivo; no se mostrará públicamente)"
       proposal_scope: "Ámbito"
-      proposal_scope_city: Toda la ciudad
+      proposal_scope_city: Ninguno específico
       proposal_scope_district: Ámbitos de actuación
       proposal_scope_note: "¿Es una medida categorizada dentro de uno de los ámbitos de actuación o no corresponde a ninguno?"
       proposal_summary: Resumen de la propuesta

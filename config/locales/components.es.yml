@@ -17,22 +17,22 @@ es:
     filter_option:
       all: Todas
       citizenship: Ciudadania
-      city: Toda la ciudad
-      district: Un distrito
+      city: Ningún ámbito particular
+      district: Ámbito
       from_meetings: Encuentros presenciales
       meetings: Debatidas en encuentros presenciales
-      official: Ayuntamiento
-      organization: Organizaciones
+      official: Propuesta inicial
+      organization: Círculos
       past: Pasadas
       upcoming: Próximas
     filter_option_group:
       category_id: Eje
       date: Fecha
-      district: Distrito
+      district: Ámbito
       other: Otros
       scope: "Ámbito"
       source: Origen
-      subcategory_id: Línea estratégica
+      subcategory_id: Subapartado
     meeting_proposals_autocomplete_input:
       loading: Cargando...
       no_results: No se han encontrado resultados.
