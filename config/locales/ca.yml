@@ -170,7 +170,7 @@ ca:
     verification::letter: la verificació
     verification::sms: el telèfon
   geozones:
-    none: Tota la ciutat
+    none: Tota
   layouts:
     application:
       chrome: Google Chrome

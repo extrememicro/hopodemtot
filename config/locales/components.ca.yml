@@ -28,7 +28,7 @@ ca:
     filter_option_group:
       category_id: Eixos temàtics
       date: Data
-      district: Districte
+      district: Àmbit
       other: Altres
       scope: "Àmbit"
       source: Origen
