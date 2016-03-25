@@ -235,8 +235,8 @@ ca:
       meeting_held_at: Quan es realitzará?
       meeting_proposal_ids: Propostes que s'han debatut o surgit (cal crear-les primer)?
       meeting_scope: "Àmbit"
-      meeting_scope_city: Cap àmbit específic
-      meeting_scope_district: Àmbits
+      meeting_scope_city: Cap àmbit
+      meeting_scope_district: "Àmbits"
       meeting_scope_note: Es una mesura categoritzada dintre d'un dels àmbits d'actuació o no correspon a cap?
       meeting_start_at: A quina hora comença?
       meeting_title: Títol

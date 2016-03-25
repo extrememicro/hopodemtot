@@ -235,7 +235,7 @@ es:
       meeting_held_at: "¿Cuándo se va a realizar?"
       meeting_proposal_ids: "Propuestas que se han debatido o surgido del encuentro (crearlas antes de reacionar)?"
       meeting_scope: "Ámbito"
-      meeting_scope_city: Ninguno específico
+      meeting_scope_city: Sin ámbito
       meeting_scope_district: Ámbitos
       meeting_scope_note: "¿Es una medida categorizada dentro de uno de los ámbitos de actuación o no corresponde a ninguna?"
       meeting_start_at: "¿A que hora empieza?"
