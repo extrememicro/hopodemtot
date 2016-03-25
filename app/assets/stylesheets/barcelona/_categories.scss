@@ -85,7 +85,7 @@ $category-icons: (
   }
 }
 
-@for $i from 1 through 5 {
+@for $i from 1 through 10 {
   .category-icon-#{$i}{
     @include bcn-icon(category-id-name($i));
   }
