@@ -1,1 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><circle fill="#FD0" stroke="#FFF" stroke-width="1.752" stroke-miterlimit="10" cx="50.001" cy="50.001" r="38.591"/><circle fill="#FD0" stroke="#FFF" stroke-width="1.752" stroke-miterlimit="10" cx="50.001" cy="50.001" r="38.591"/><path fill="#FFD445" d="M50 11.183a39 39 0 0 1 6.75.597L49.33 1l-7.11 10.963a39.08 39.08 0 0 1 7.78-.78z"/><path fill="#FBE937" d="M17.273 29.14l-12.8 2.727 7.415 10.776a38.56 38.56 0 0 1 5.385-13.504zM70.86 17.272l-2.728-12.8-10.775 7.416a38.56 38.56 0 0 1 13.504 5.384z"/><path fill="#FFD445" d="M27.748 18.203l-12.87-2.376 2.727 12.795a38.988 38.988 0 0 1 10.143-10.42z"/><path fill="#FBE937" d="M41.604 12.103L30.63 4.985l-2.376 12.857a38.62 38.62 0 0 1 13.35-5.74z"/><path fill="#FFD445" d="M99 49.33l-10.963-7.11a38.963 38.963 0 0 1 .183 14.53L99 49.33z"/><path fill="#FBE937" d="M87.898 41.605l7.115-10.977-12.855-2.375a38.68 38.68 0 0 1 5.74 13.352z"/><path fill="#FFD445" d="M81.8 27.748l2.376-12.87-12.795 2.727A39.043 39.043 0 0 1 81.8 27.748z"/><path fill="#FBE937" d="M58.395 87.896l10.977 7.117 2.375-12.855a38.6 38.6 0 0 1-13.352 5.738z"/><path fill="#FFD445" d="M50 88.816c-2.303 0-4.555-.21-6.75-.596L50.67 99l7.11-10.963c-2.512.512-5.114.78-7.78.78zm22.252-7.02l12.87 2.38-2.726-12.795A39.025 39.025 0 0 1 72.252 81.8zM11.182 50a39 39 0 0 1 .598-6.75L1 50.67l10.964 7.113a39.05 39.05 0 0 1-.78-7.782z"/><path fill="#FBE937" d="M82.73 70.863l12.798-2.73-7.414-10.775a38.63 38.63 0 0 1-5.385 13.505zM12.104 58.396L4.986 69.37l12.857 2.376a38.61 38.61 0 0 1-5.74-13.35zM29.14 82.73l2.728 12.796 10.776-7.414A38.574 38.574 0 0 1 29.14 82.73z"/><path fill="#FFD445" d="M18.202 72.252l-2.377 12.87 12.795-2.726a39.047 39.047 0 0 1-10.418-10.144z"/><circle fill="#FFF" cx="36.457" cy="47.255" r="10.849"/><circle fill="#FFF" cx="64.403" cy="47.255" r="10.849"/><circle fill="#1D1D1B" cx="36.457" cy="47.976" r="3.726"/><circle fill="#1D1D1B" cx="64.404" cy="47.976" r="3.727"/><path fill="#7A250F" d="M45.33 69.7a6.036 6.036 0 0 0 5.52 3.604 6.036 6.036 0 0 0 5.52-3.605H45.33z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="136.833px" height="136.834px" viewBox="0 0 136.833 136.834" style="enable-background:new 0 0 136.833 136.834;"
+	 xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:#E59C31;}
+	.st1{fill:#E5CE27;}
+	.st2{fill:#E84849;}
+	.st3{fill:#E8F5F4;}
+	.st4{opacity:0.15;}
+	.st5{fill:#857856;}
+	.st6{fill:#EDB04E;}
+	.st7{fill:#EFDE0E;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#4B4A4B;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#4C4D4D;}
+	.st10{fill:#8CC3CC;}
+	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#E84849;}
+	.st12{fill:#F06668;}
+	.st13{fill:#F1EB75;}
+	.st14{fill:#F2BE3E;}
+	.st15{fill:#F3ED73;}
+	.st16{fill:#F4E028;}
+	.st17{fill:#F59C9E;}
+	.st18{fill:#F6A2A3;}
+	.st19{clip-path:url(#SVGID_9_);}
+	.st20{fill:#C0D5D7;}
+	.st21{fill:url(#SVGID_1_);}
+	.st22{fill:url(#SVGID_2_);}
+	.st23{fill:url(#SVGID_3_);}
+	.st24{fill:url(#SVGID_4_);}
+	.st25{fill:url(#SVGID_5_);}
+	.st26{fill:url(#SVGID_6_);}
+	.st27{fill:url(#SVGID_7_);}
+	.st28{fill:#C7E3E7;}
+	.st29{fill:#2F8442;}
+	.st30{fill-rule:evenodd;clip-rule:evenodd;fill:#F06668;}
+	.st31{fill:#FFFFFF;}
+	.st32{fill:#664219;}
+	.st33{fill:#67B8CB;}
+	.st34{fill:#9CBDBF;}
+	.st35{fill:#69C6D4;}
+	.st36{fill:#9F77AA;}
+	.st37{fill:#344E5D;}
+	.st38{fill:#357180;}
+	.st39{fill:#6CC077;}
+	.st40{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st41{fill-rule:evenodd;clip-rule:evenodd;fill:#626463;}
+	.st42{fill:#D3E9D0;}
+	.st43{fill:#717171;}
+	.st44{fill:#A2D4DE;}
+	.st45{fill:#A3D4AA;}
+	.st46{fill:#DEA027;}
+]]>
+</style>
+<g>
+	<g>
+		<g>
+			<g>
+				<circle class="st14" cx="68.417" cy="68.417" r="63.333"/>
+			</g>
+		</g>
+	</g>
+	<circle class="st13" cx="68.417" cy="68.417" r="31.308"/>
+</g>
+</svg>

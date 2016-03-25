@@ -19,11 +19,14 @@
   display: inline-block;
 }
 
-$icons: activitat ajuntament arbre campana cor correu dit_assenyala doc
-                  doc_llapis espiral facebook fletxa google_plus imac info
+$icons: activitat ajuntament campana cor correu dit_assenyala doc
+                  doc_llapis facebook fletxa google_plus info
                   localitzacio lupa ma ma_no_ok ma_ok ma_perfecte megafon nuvol
-                  planol safata sol twiter usuari xat_blanc xat_gris
-                  dit_assenyala_vermell meetings citizens organizations;
+                  planol sol twiter usuari xat_blanc xat_gris
+                  dit_assenyala_vermell meetings citizens organizations
+                  xat xat_cor xat_perso bombeta doc_mes propostes confluencia
+                  plural feminisme garanties territori transparencia no_telegram
+                  participacio comunicacio municipalisme moviments;
 
 @each $icon in $icons{
   .bcn-icon-#{$icon}{
