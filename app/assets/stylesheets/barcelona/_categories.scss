@@ -1,9 +1,14 @@
 $category-icons: (
-  1: "espiral",
-  2: "fletxa",
-  3: "arbre",
-  4: "correu",
-  5: "ma"
+  1: "participacio",
+  2: "transparencia",
+  3: "plural",
+  4: "confluencia",
+  5: "feminisme",
+  6: "garanties",
+  7: "municipalisme",
+  8: "comunicacio",
+  9: "moviments",
+  10: "territori"
 );
 
 @function category-id-name($id){
