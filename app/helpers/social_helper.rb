@@ -1,7 +1,7 @@
 module SocialHelper
   def share_button_for(proposal)
     content_tag :div, class: 'share-buttons' do
-      result = social_share_button_tag("#{proposal.title} #DecidimBarcelona",
+      result = social_share_button_tag("#{proposal.title} #HoPodemTot",
                               url: proposal_url(proposal))
       result << content_tag(
         :a,
