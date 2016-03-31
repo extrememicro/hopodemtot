@@ -1,12 +1,7 @@
 <% provide :title do %><%= t("devise_views.users.registrations.new.title") %><% end %>
 <h2><%= t("devise_views.users.registrations.new.title") %></h2>
 
-
-<% if false %>
 <%= render 'devise/omniauth_form' %>
-<% end %>
-
-
 
 <%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
   <%= render 'shared/errors', resource: resource %>
