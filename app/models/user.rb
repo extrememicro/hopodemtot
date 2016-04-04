@@ -1,5 +1,5 @@
 class User < ActiveRecord::Base
-  ROLES = %w{administrator moderator dynamizer}
+  ROLES = %w{administrator moderator dynamizer reviewer}
 
   include Verification
   include PgSearch
