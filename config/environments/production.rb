@@ -67,7 +67,7 @@ Rails.application.configure do
   config.cache_store = :dalli_store, { expires_in: 1.day}
 
   # Enable serving of images, stylesheets, and JavaScripts from an asset server.
-  config.action_controller.asset_host = "https://#{Rails.application.secrets.server_name}"
+  #config.action_controller.asset_host = "https://#{Rails.application.secrets.server_name}"
 
   # Ignore bad email addresses and do not raise email delivery errors.
   # Set this to true and configure the email server for immediate delivery to raise delivery errors.
@@ -99,7 +99,7 @@ Rails.application.configure do
 
   config.middleware.insert_before 0, Rack::Cors do
     allow do
-      origins 'decidim.barcelona.cat'
+      origins 'ara.hopodemtot.info'
       resource '/assets/*',
                :methods => [:get, :options, :head],
                :headers => :any
