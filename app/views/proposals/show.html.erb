@@ -15,6 +15,13 @@
     </div>
   </div>
 
+  <% if can? :update, @proposal %>
+    <%= link_to edit_proposal_path(@proposal), class: 'edit-proposal button success tiny radius right' do %>
+      <i class="icon-edit"></i>
+      <%= t("proposals.show.edit_proposal_link") %>
+    <% end %>
+  <% end %>
+
   <% if @proposal.meetings.any? %>
     <div class="row">
       <div class="small-12 medium-9 column">
