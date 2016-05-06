@@ -31,8 +31,11 @@ module VotesHelper
   def vote_component_for(resource)
     cant_vote_text = 
       if user_signed_in?
-        
-          t("votes.verified_only")
+        if current_user.organization?
+          t("votes.organizations")
+        elsif !resource.votable_by?(current_user)
+          t("votes.verified_only", 
+            verify_account: link_to(t("votes.verify_account"), verification_path ))
         end
       else
         t("votes.unauthenticated",
