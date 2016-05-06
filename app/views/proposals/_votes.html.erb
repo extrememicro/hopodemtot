@@ -20,19 +20,26 @@
         <%= t("proposals.proposal.already_supported") %>
       </div>
     <% else %>
-      <%= button_to vote_url,
-          class: "button button-support tiny radius expand",
-            title: t('proposals.proposal.support_title'), method: "post", remote: true,
-            data: { disable_with: '...' } do %>
-        <%= t("proposals.proposal.support") %>
+
+	  <div class="anonymous-votes" style='display:none'>
+    	<p>
+     	 <%= t("votes.verified_only" %>
+    	</p>
+  		</div>
       <% end %>
     <% end %>
   </div>
 
-  <% if user_signed_in? %>
-  <div class="anonymous-votes" style='display:none'>
+  <% if user_signed_in? && current_user.organization? %>
+  <div class="organizations-votes" style='display:none'>
     <p>
       <%= t("votes.verified_only") %>
+    </p>
+  </div>
+  <% elsif user_signed_in? && !proposal.votable_by?(current_user)%>
+  <div class="anonymous-votes" style='display:none'>
+    <p>
+      <%= t("votes.verified_only" %>
     </p>
   </div>
   <% elsif !user_signed_in? %>
