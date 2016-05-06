@@ -497,7 +497,7 @@ ca:
     signup: registrar-
     supports: Suports
     unauthenticated: Necessites %{signin} o %{signup} per continuar.
-    verified_only: Les propostes només poden ser votades per usuaris verificats, %{verify_account}.
+    verified_only: Les propostes ja no poden ser votades. S'ha exaurit el termini. Gràcies.
     verify_account: verifica el teu compte
   welcome:
     welcome:

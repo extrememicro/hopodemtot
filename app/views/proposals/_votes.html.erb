@@ -29,17 +29,10 @@
     <% end %>
   </div>
 
-  <% if user_signed_in? && current_user.organization? %>
-  <div class="organizations-votes" style='display:none'>
-    <p>
-      <%= t("votes.organizations") %>
-    </p>
-  </div>
-  <% elsif user_signed_in? && !proposal.votable_by?(current_user)%>
+  <% if user_signed_in? %>
   <div class="anonymous-votes" style='display:none'>
     <p>
-      <%= t("votes.verified_only",
-          verify_account: link_to(t("votes.verify_account"), verification_path )).html_safe %>
+      <%= t("votes.verified_only") %>
     </p>
   </div>
   <% elsif !user_signed_in? %>
