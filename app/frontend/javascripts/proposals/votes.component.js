@@ -31,7 +31,7 @@ export default class Votes extends Component {
             </div>
           </div>
           <div className="in-favor">
-            {this.renderVoteButton()}
+           
           </div>
           {this.renderShare()}
           {this.renderCantVoteOverlay()}
