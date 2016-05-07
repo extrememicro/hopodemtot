@@ -501,7 +501,7 @@ es:
     signup: registrarte
     supports: Apoyos
     unauthenticated: Necesitas %{signin} o %{signup} para continuar.
-    verified_only: Las propuestas ya no pueden ser votadas. Se ha acabado el período de votación. Gracias.
+    verified_only: Las propuestas sólo pueden ser votadas por usuarios verificados, %{verify_account}.
     verify_account: verifica tu cuenta
   welcome:
     welcome:
