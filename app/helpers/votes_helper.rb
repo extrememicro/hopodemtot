@@ -47,7 +47,7 @@ module VotesHelper
       vote_url: api_proposal_votes_url(proposal_id: resource),
       total_votes: resource.total_votes,
       already_voted: current_user && current_user.voted_up_on?(resource),
-      cant_vote: !user_signed_in? || 
+      cant_vote: user_signed_in? || 
         (user_signed_in? && !resource.votable_by?(current_user)) ||
         (user_signed_in? && current_user.organization?),
       cant_vote_text: cant_vote_text,
