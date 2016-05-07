@@ -19,19 +19,12 @@
       <div class="supported">
         <%= t("proposals.proposal.already_supported") %>
       </div>
-    <% else %>
-		 <div class="anonymous-votes" style='display:none'>
-		   <p>
-		     <%= t("votes.verified_only" %>
-		   </p>
-		 </div>
-    <% end %>
   </div>
 
   <% if user_signed_in? && current_user.organization? %>
-  <div class="anonymous-votes" style='display:none'>
+  <div class="organizations-votes" style='display:none'>
     <p>
-      <%= t("votes.verified_only" %>
+      <%= t("votes.verified_only") %>
     </p>
   </div>
   <% elsif user_signed_in? && !proposal.votable_by?(current_user)%>
